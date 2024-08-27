@@ -1,0 +1,2639 @@
+[
+    {
+        "name": "Monika Ice Cream",
+        "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/q983vqfjtwfbyduy7ais",
+        "items": [
+            {
+                "name": "American Dryfruit",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/ah6lmwef3ysswfhcbrsw",
+                "price": "50",
+                "veg": true,
+                "rating": "4.5",
+                "raters": "23",
+                "description": "Indulge in the creamy richness of this delectable dryfruit ice cream bursting with the flavors of America."
+            },
+            {
+                "name": "Mango Kaju Milk Shake",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/057c3fe5f0c8579897c6de856be85e31",
+                "price": "100",
+                "veg": true,
+                "rating": "0.0",
+                "raters": "0",
+                "description": "Indulge in a luscious blend of creamy milk, ripe mangoes, and crunchy cashews in this refreshing fruit milkshake."
+            },
+            {
+                "name": "Malai Candy",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/bcq1aqisd5oq1lkhec0j",
+                "price": "35",
+                "veg": true,
+                "rating": "4.2",
+                "raters": "11",
+                "description": "A rich and creamy delight that will tantalize your taste buds with its luscious flavors."
+            },
+            {
+                "name": "Rose Faluda",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/w0ndgma6fhyw89g3tgvb",
+                "price": "90",
+                "veg": true,
+                "rating": "4.2",
+                "raters": "41",
+                "description": "Indulge in the heavenly delicacy of our Faluda Special where the essence of roses infuses into a refreshing, vegetarian delight that will leave your taste buds craving for more."
+            },
+            {
+                "name": "Monika Sp Dry Faluda",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/ec4f21acb3ff82fddf64df0de67ae446",
+                "price": "120",
+                "veg": true,
+                "rating": "4.8",
+                "raters": "7",
+                "description": "A lip-smacking, fragrant and delightful dessert experience with a touch of Monika's special magic."
+            },
+            {
+                "name": "Kaju Anjeer Faluda",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/1e089d6d375b3f9a272f5285d5e52099",
+                "price": "95",
+                "veg": true,
+                "rating": "4.4",
+                "raters": "23",
+                "description": "Indulge in the delightful blend of flavors and textures with our faluda special, a heavenly concoction featuring cashews and figs."
+            },
+            {
+                "name": "Mango Faluda",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/u0kbib31gx6c3zx4ip2m",
+                "price": "90",
+                "veg": true,
+                "rating": "4.4",
+                "raters": "18",
+                "description": "A delightful sweet treat with a vibrant blend of flavors and textures, perfect to indulge in on a warm day."
+            },
+            {
+                "name": "Kesar Faluda",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/oyoizeb549ym6jojhh7x",
+                "price": "105",
+                "veg": true,
+                "rating": "4.6",
+                "raters": "6",
+                "description": "A delectable vegetarian dessert, bursting with flavors and textures, perfect to cool you down on a warm day."
+            },
+            {
+                "name": "Chicken Fried Rice",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/btgwwmq7q4mqik8ldr1x",
+                "price": "89",
+                "veg": false,
+                "rating": "",
+                "raters": "",
+                "description": "A delectable Indian bread that adds a flavorful touch to any meal."
+            },
+            {
+                "name": "Chocolate Faluda",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/pwhf2bkvar4r9wlnngqi",
+                "price": "90",
+                "veg": true,
+                "rating": "4.9",
+                "raters": "5",
+                "description": "Indulge in the delightful flavors of Chocolate Faluda, a special vegetarian dessert that promises a blissful treat."
+            },
+            {
+                "name": "Pineaple Faluda",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/c78c5133ff0d81cfbd9c3e5a69f210db",
+                "price": "90",
+                "veg": true,
+                "rating": "4.5",
+                "raters": "12",
+                "description": "An exotic blend of refreshing ingredients, Pineapple Faluda tantalizes the taste buds with its delightful flavors, making it a must-try dessert."
+            },
+            {
+                "name": "Monika Sp Milk Shake",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/fb636b01ff086060c9282abfa16eea25",
+                "price": "120",
+                "veg": true,
+                "rating": "0.0",
+                "raters": "",
+                "description": "Indulge in the rich and creamy flavors of this luscious dry fruit milkshake that will leave you wanting more."
+            },
+            {
+                "name": "Kaju Anjeer Cadburry Milk Shake",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/56f256504ac5073fb85a0773b22b85cc",
+                "price": "120",
+                "rating": "0.0",
+                "raters": "0",
+                "description": "A delectable blend of dry fruits with Cadbury milk, creating a luscious milkshake that's perfect for those seeking a touch of richness and indulgence."
+            },
+            {
+                "name": "Kanju Anjeer Milk Shake",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/b6b56cb0df6d1e2dda896a3230cd9b52",
+                "price": "110",
+                "rating": "0.0",
+                "raters": "0",
+                "description": "Indulge in a rich and creamy milkshake packed with the goodness of dry fruits like anjeer, sure to satisfy your sweet tooth."
+            },
+            {
+                "name": "Kaju Anjeer Cadburry Milk Shake",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/56f256504ac5073fb85a0773b22b85cc",
+                "price": "120",
+                "rating": "0.0",
+                "raters": "0",
+                "description": "A delectable blend of dry fruits with Cadbury milk, creating a luscious milkshake that's perfect for those seeking a touch of richness and indulgence."
+            }
+        ]
+    },
+    {
+        "name": "Pizza Hut",
+        "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/490629b70f89da8a5b93fc199ece335e",
+        "items": [
+            {
+                "name": "Margherita",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/dpventcrozvfni0lqb10",
+                "price": "169",
+                "rating": "",
+                "raters": "",
+                "description": "Pizza topped with our herb-infused signature pan sauce and 100% mozzarella cheese. A classic treat for all cheese lovers out there! (PAN Per/Med-292 Kcal/100g | TnC-293 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products."
+            },
+            {
+                "name": "Tandoori Paneer",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/s5ld93rsknx0fhj6xarn",
+                "price": "319",
+                "rating": "",
+                "raters": "",
+                "description": "Serves 1 | It's our signature. Spiced paneer, crunchy onions & green capsicum, spicy red paprika with delicious tandoori sauce and 100% mozzarella cheese! (PAN Per/Med-335 Kcal/100g | TnC-326 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products."
+            },
+            {
+                "name": "Veggie Supreme",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/z0c4xpovma1qtmu4tlls",
+                "price": "379",
+                "rating": "",
+                "raters": "",
+                "description": "Serves 1 | A supreme combination of black olives, green capsicum, mushroom, onion, spicy red paprika & juicy sweet corn with flavourful pan sauce and 100% mozzarella cheese. (PAN Per/Med-254 Kcal/100g | TnC-258 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products."
+            },
+            {
+                "name": "Chicken Tikka",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/juplqft4tmub5hqocwxk",
+                "price": "379",
+                "rating": "",
+                "raters": "",
+                "description": "Serves 1 | Mouth-watering chicken tikka, crunchy onion & tomato with delicious tandoori sauce and 100% mozzarella cheese (PAN Per/Med-275 Kcal/100g | TnC-283 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g | Stuff Crust Chicken Seekh Kebab Add : Per: 256 Kcal/100g | Med: 253 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products."
+            },
+            {
+                "name": "Triple Chicken Feast",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/quxirmjttzksp7xlhysc",
+                "price": "409",
+                "rating": "",
+                "raters": "",
+                "description": "Serves 1 | Spicy schezwan chicken meatball, flavourful herbed chicken, juicy chicken sausage, green capsicum & onion, spicy red paprika with classic pan sauce and 100% mozzarella cheese (PAN Per/Med-262 Kcal/100g | TnC-277 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g | Stuff Crust Chicken Seekh Kebab Add : Per: 256 Kcal/100g | Med: 253 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products."
+            },
+            {
+                "name": "Tandoori Paneer Thin n Crispy",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/3/7/a365b1af-5d17-4639-994b-1f4e177c757e_f2e7acc3-9370-49e3-829b-296ea2754eaf_compressed",
+                "price": "749",
+                "rating": "",
+                "raters": "",
+                "description": "Serves 4 | New Thin n Crispy crust topped with spiced paneer, crunchy onions & green capsicum, spicy red paprika, delicious tandoori sauce and 100% mozzarella cheese (TnC-326 Kcal/100g). Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products."
+            },
+            {
+                "name": "Chicken Supreme Thin n Crispy",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/252a01784a4caa78e1d7d1a4206f8b2f",
+                "price": "949",
+                "rating": "",
+                "raters": "",
+                "description": "Serves 4 | New Thin n Crispy crust with delicious chicken tikka, flavourful herbed chicken, spicy schezwan chicken meatball with flavourful pan sauce and 100% mozzarella cheese. (TnC-284 Kcal/100g). Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products."
+            },
+            {
+                "name": "Chicken Pepperoni Thin n Crispy",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/364fbbed964a25498f7413762ebed513",
+                "price": "849",
+                "description": "Serves 4 | New Thin n Crispy crust with yummy chicken pepperoni & 100% mozzarella cheese with signature pan sauce. Its a classic! (TnC-311 Kcal/100g). Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products."
+            },
+            {
+                "name": "Mexican Fiesta Thin n Crispy",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/fcdc4615f6c0fa952da88c394d732fad",
+                "price": "749",
+                "description": "Serves 4 | New Thin n Crispy crust topped with red capsicum, green capsicum, jalapeno, onion, black olives, sweet corn, 100% mozzarella cheese, signature spice sprinkle & our flavourful pan sauce (TnC-258 Kcal/100g). Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products."
+            },
+            {
+                "name": "Classic Onion Capsicum",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/ed6a84173f69cdd4f676e94c2332c5e7",
+                "price": "119",
+                "description": "Serves 1 | Personal pizza topped with our classic pan sauce, crunchy onion & capsicum and cheesy dressing (307 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products."
+            },
+            {
+                "name": "Chatpata Tomato Onion & Chilli",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/3b229da1719952a564c2bf297bb731b3",
+                "price": "169",
+                "description": "Pizza topped with a spicy tandoori sauce, juicy tomato, crunchy onion & green chilli for an extra zing and cheesy dressing (328 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products."
+            },
+            {
+                "name": "Spicy Sweet Corn, Onion, Green Chilli",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/04b1310428ad6814cf48e3544e4fd00e",
+                "price": "159",
+                "description": "Pizza topped with a spicy tandoori sauce, juicy sweet corn, crunchy onion & spicy green chilli and cheesy dressing (327 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products."
+            },
+            {
+                "name": "Margherita",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/2d16764980d14b46323559a539f77910",
+                "price": "169",
+                "description": "Pizza topped 100% mozzarella cheese, cheesy dressing for thst extraaa cheesy flavour, onion and spicy green chilli, sprinkled with our signature spiced seasoning (367 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products."
+            },
+            {
+                "name": "Chilli Paneer Sizzle",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/fc2d0de600d6649eaea5ca50d84ab5ec",
+                "price": "199",
+                "description": "Pizza topped with spiced paneer, a spicy schezwan sauce, juicy tomato, crunchy onion & capsicum and cheesy dressing (298 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products"
+            },
+            {
+                "name": "Schezwan Margherita",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/0e7df98b7cffdb0b88856464014ad2ff",
+                "price": "219",
+                "description": "Serves 1 | Your very own margherita, now with a spicy twist! Loaded with our signature spicy schezwan sauce & 100% mozzarella cheese (PAN Per/Med-300 Kcal/100g | TnC-309 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products."
+            },
+            {
+                "name": "Ultimate Tandoori Veggie",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/b7d1f56df6414f8b6e49001af95e259a",
+                "price": "379",
+                "description": "Serves 1 | An ultimate combination of your favourite veggies-onion, green capsicum, mushroom, tomato, spicy jalapeno on tandoori sauce, topped with 100% mozzarella cheese & generous drizzle of mint mayo (PAN Per/Med-314 Kcal/100g | TnC-395 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products."
+            },
+            {
+                "name": "Nawabi Murg Makhni",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/eb7467f9836bde6741eff6cf81b996da",
+                "price": "409",
+                "description": "Serves 1 | A chicken lovers delight! Combination of chicken malai tikka, flavourful chicken keema masala, crunchy onion, juicy tomato on our new makhni sauce with 100% mozzarella cheese and buttery spice sprinkle (PAN Per/Med-252 Kcal/100g | TnC-269 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g | Stuff Crust Chicken Seekh Kebab Add : Per: 256 Kcal/100g | Med: 253 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products."
+            },
+            {
+                "name": "BBQ Baked Chicken Wings (6 pcs)",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/6a3835027affacf8259f68c1d2fbf9f5",
+                "price": "269",
+                "description": "Serves 1 | All new baked BBQ chicken wings. Its juicy, spicy & so much flaourful (206 Kcal/100g) Contains Cereals containing Gluten (Wheat) & Soya."
+            },
+            {
+                "name": "BBQ Baked Chicken Wings (4 pcs)",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/a8dea12984ff26dfee5fa6e5743abbb5",
+                "price": "219",
+                "description": "Serves 1 | All new baked BBQ chicken wings. Its juicy, spicy & so much flaourful (206 Kcal/100g) Contains Cereals containing Gluten (Wheat) & Soya."
+            },
+            {
+                "name": "Tomato Ketchup",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/hovlvq3ceumkhyivd0ik",
+                "price": "0.95",
+                "description": "Serves 1 | Ketchup sachet (11 Kcal/100g)"
+            },
+            {
+                "name": "Cosy Comfort White Sauce Pasta",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/f2miudjhhrpyeyxn23dz",
+                "price": "189",
+                "description": "Serves 1 | Fusilli pasta baked in rich white sauce topped with onion, green capsicum, red capsicum & sweet corn and cheesy dressing. (206 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products."
+            },
+            {
+                "name": "Classic Mushroom Pasta",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/kcgpendnr72r4ljbdhvw",
+                "price": "209",
+                "description": "Serves 1 | Fusilli pasta baked in classic mushroom sauce and topped with cheesy dressing (231 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products."
+            },
+            {
+                "name": "Spicy Red Schezwan Pasta",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/c6aea671a74704ce9f39dba98d5846dd",
+                "price": "179",
+                "description": "Serves 1 | Fusilli pasta baked in spicy schezwan sauce, green capsicum, onion and red capsicum topped with paprika for an added zing & cheesy dressing (191 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products."
+            },
+            {
+                "name": "Tandoori Paneer Pasta",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/f1bnld6zrlutewe7vi9a",
+                "price": "169",
+                "description": "Serves 1 | Baked penne pasta with your favorite tandoori sauce topped with flavorful soft paneer and green capsicum, onion, red capsicum & cheesy dressing (232 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products."
+            },
+            {
+                "name": "Tandoori Murg Pasta",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/afetxjkwly3qhzheetjm",
+                "price": "189",
+                "description": "Serves 1 | Baked penne pasta with your favorite tandoori sauce topped with chicken tikka, green capsicum, onion, red capsicum and cheesy dressing (214 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products."
+            }
+        ]
+    },
+    {
+        "name": "Cake City",
+        "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/upchcfnhfalcir2cy3de",
+        "items": [
+            {
+                "name": "White Forest",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/f09b4d2d0dca3847a0b0dcab277043b7",
+                "price": "367",
+                "veg": true,
+                "rating": "4.6",
+                "raters": "6",
+                "description": "A delectable and enticing delicacy that combines the irresistible flavors of vanilla, bringing a touch of elegance to your taste buds."
+            },
+            {
+                "name": "Chocolate Chips",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/f28f5016689c5427229c7a882a7c6a2f",
+                "price": "379",
+                "veg": true,
+                "rating": "4.6",
+                "raters": "6",
+                "description": "A heavenly treat filled with delectable surprises."
+            },
+            {
+                "name": "Black Forest",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/165ae9e1f3f3c2ed95c6018467d8fc30",
+                "price": "350",
+                "veg": true,
+                "rating": "4.6",
+                "raters": "6",
+                "description": "ndulge in this decadent chocolate delight, layered with rich flavors that will transport your taste buds to a Black Forest dream."
+            },
+            {
+                "name": "Chocolate Chips Special",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/92f61319f2176dc3d869aefca45fd9e7",
+                "price": "449",
+                "veg": true,
+                "rating": "4.6",
+                "raters": "6",
+                "description": "Indulge in a heavenly chocolate delight, loaded with delightful chocolate chips and a touch of magic."
+            },
+            {
+                "name": "Kesar Badam",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/3/7/a365b1af-5d17-4639-994b-1f4e177c757e_f2e7acc3-9370-49e3-829b-296ea2754eaf_compressed",
+                "price": "399",
+                "veg": true,
+                "rating": "4.6",
+                "raters": "6",
+                "description": "Serves 4 | New Thin n Crispy crust topped with spiced paneer, crunchy onions & green capsicum, spicy red paprika, delicious tandoori sauce and 100% mozzarella cheese (TnC-326 Kcal/100g). Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products."
+            },
+            {
+                "name": "Chocolate Kitkat",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,e_grayscale,c_fit/be1e92d3e81c452aa089ceb7eb0f28a1",
+                "price": "449",
+                "veg": true,
+                "rating": "4.6",
+                "raters": "6",
+                "description": "Serves 1 | Spicy schezwan chicken meatball, flavourful herbed chicken, juicy chicken sausage, green capsicum & onion, spicy red paprika with classic pan sauce and 100% mozzarella cheese (PAN Per/Med-262 Kcal/100g | TnC-277 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g | Stuff Crust Chicken Seekh Kebab Add : Per: 256 Kcal/100g | Med: 253 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products."
+            },
+            {
+                "name": "Red Velvet",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/3/22/ba0da78a-7613-4e7e-b05f-df2f70398dc5_27fb1ab8-25e8-4e6a-b66b-22bb45182e59.JPG",
+                "price": "500",
+                "veg": true,
+                "rating": "4.6",
+                "raters": "6",
+                "description": "A luscious, indulgent cheesecake with a vibrant, velvety red hue, guaranteed to satisfy your sweet tooth."
+            },
+            {
+                "name": "Strawberry Cake [500 grams]",
+                "img": "https://b.zmtcdn.com/data/dish_photos/182/bb57f7673f6ef6c3f944e372fcc6c182.jpeg?fit=around|130:130&crop=130:130;*,*",
+                "price": "399",
+                "veg": true,
+                "rating": "4.2",
+                "raters": "50+",
+                "description": ""
+            },
+            {
+                "name": "Pineapple Cake [500 grams]",
+                "img": "https://b.zmtcdn.com/data/dish_photos/3bd/b143228132f08f8c9d71cd2e56a1a3bd.jpeg?fit=around|130:130&crop=130:130;*,*",
+                "price": "399",
+                "veg": true,
+                "rating": "4.0",
+                "raters": "8",
+                "description": ""
+            },
+            {
+                "name": "Blueberry Cake [500 grams]",
+                "img": "https://b.zmtcdn.com/data/dish_photos/07a/8b13251d1d679b81fc931f9650de107a.jpeg?fit=around|130:130&crop=130:130;*,*",
+                "price": "399",
+                "veg": true,
+                "rating": "4.6",
+                "raters": "6",
+                "description": ""
+            },
+            {
+                "name": "Mixed Fruit Cake [500 grams]",
+                "img": "https://b.zmtcdn.com/data/dish_photos/811/b865ad830507febe8d5af8f128796811.jpeg?fit=around|130:130&crop=130:130;*,*",
+                "price": "399",
+                "veg": true,
+                "rating": "3.6",
+                "raters": "13",
+                "description": ""
+            },
+            {
+                "name": "Butterscotch Cake [500 grams]",
+                "img": "https://b.zmtcdn.com/data/dish_photos/efc/376e9c6bee7fe80fd07da5802214cefc.jpeg?fit=around|130:130&crop=130:130;*,*",
+                "price": "399",
+                "veg": true,
+                "rating": "4.6",
+                "raters": "6",
+                "description": ""
+            },
+            {
+                "name": "Blueberry Cake [500 grams]",
+                "img": "https://b.zmtcdn.com/data/dish_photos/07a/8b13251d1d679b81fc931f9650de107a.jpeg?fit=around|130:130&crop=130:130;*,*",
+                "price": "399",
+                "veg": true,
+                "rating": "4.6",
+                "raters": "6",
+                "description": "A luscious, indulgent cheesecake with a vibrant, velvety red hue, guaranteed to satisfy your sweet tooth."
+            },
+            {
+                "name": "Blueberry Cake [500 grams]",
+                "img": "https://b.zmtcdn.com/data/dish_photos/07a/8b13251d1d679b81fc931f9650de107a.jpeg?fit=around|130:130&crop=130:130;*,*",
+                "price": "399",
+                "veg": true,
+                "rating": "4.6",
+                "raters": "6",
+                "description": "A luscious, indulgent cheesecake with a vibrant, velvety red hue, guaranteed to satisfy your sweet tooth."
+            }
+        ]
+    },
+    {
+        "name": "New Sofia Lunch Home",
+        "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/7423c03fa94719826e270ef5e291e880",
+        "items": [
+            {
+                "name": "Butter paneer",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/33c909810825a9b51f7417c3fe1049a8",
+                "price": "169",
+                "veg": true,
+                "rating": "4.6",
+                "raters": "6",
+                "description": ""
+            },
+            {
+                "name": "Butter chicken",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/f2dfd67c797cc52ce6031fd4196248a0",
+                "price": "209",
+                "veg": false,
+                "rating": "2.5",
+                "raters": "7",
+                "description": "A succulent and flavorful chicken delicacy in a velvety, rich sauce that will tantalize your taste buds."
+            },
+            {
+                "name": "Fried chicken lollipop oil",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/8a457094903241c0036d61add37e54cc",
+                "price": "159",
+                "veg": false,
+                "rating": "3.7",
+                "raters": "3",
+                "description": "ndulge in this decadent chocolate delight, layered with rich flavors that will transport your taste buds to a Black Forest dream."
+            },
+            {
+                "name": "Chocolate Chips Special",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/92f61319f2176dc3d869aefca45fd9e7",
+                "price": "449",
+                "veg": true,
+                "rating": "4.6",
+                "raters": "6",
+                "description": "Indulge in a heavenly chocolate delight, loaded with delightful chocolate chips and a touch of magic."
+            },
+            {
+                "name": "Kesar Badam",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/3/7/a365b1af-5d17-4639-994b-1f4e177c757e_f2e7acc3-9370-49e3-829b-296ea2754eaf_compressed",
+                "price": "399",
+                "veg": true,
+                "rating": "4.6",
+                "raters": "6",
+                "description": "Serves 4 | New Thin n Crispy crust topped with spiced paneer, crunchy onions & green capsicum, spicy red paprika, delicious tandoori sauce and 100% mozzarella cheese (TnC-326 Kcal/100g). Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products."
+            },
+            {
+                "name": "Chocolate Kitkat",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,e_grayscale,c_fit/be1e92d3e81c452aa089ceb7eb0f28a1",
+                "price": "449",
+                "veg": true,
+                "rating": "4.6",
+                "raters": "6",
+                "description": "Serves 1 | Spicy schezwan chicken meatball, flavourful herbed chicken, juicy chicken sausage, green capsicum & onion, spicy red paprika with classic pan sauce and 100% mozzarella cheese (PAN Per/Med-262 Kcal/100g | TnC-277 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g | Stuff Crust Chicken Seekh Kebab Add : Per: 256 Kcal/100g | Med: 253 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products."
+            },
+            {
+                "name": "Red Velvet",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/3/22/ba0da78a-7613-4e7e-b05f-df2f70398dc5_27fb1ab8-25e8-4e6a-b66b-22bb45182e59.JPG",
+                "price": "500",
+                "veg": true,
+                "rating": "4.6",
+                "raters": "6",
+                "description": "A luscious, indulgent cheesecake with a vibrant, velvety red hue, guaranteed to satisfy your sweet tooth."
+            },
+            {
+                "name": "Red Velvet",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/3/22/ba0da78a-7613-4e7e-b05f-df2f70398dc5_27fb1ab8-25e8-4e6a-b66b-22bb45182e59.JPG",
+                "price": "500",
+                "veg": true,
+                "rating": "4.6",
+                "raters": "6",
+                "description": "A luscious, indulgent cheesecake with a vibrant, velvety red hue, guaranteed to satisfy your sweet tooth."
+            },
+            {
+                "name": "Red Velvet",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/3/22/ba0da78a-7613-4e7e-b05f-df2f70398dc5_27fb1ab8-25e8-4e6a-b66b-22bb45182e59.JPG",
+                "price": "500",
+                "veg": true,
+                "rating": "4.6",
+                "raters": "6",
+                "description": "A luscious, indulgent cheesecake with a vibrant, velvety red hue, guaranteed to satisfy your sweet tooth."
+            }
+        ]
+    },
+    {
+        "name": "Rangoli Restaurant",
+        "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/cfxmyvwnvhe5zg49yuhj",
+        "items": [
+            {
+                "name": "Idli Sambar",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/bd3611f002c06183b263f8e8b7f50620",
+                "price": "68",
+                "veg": true,
+                "rating": "4.2",
+                "raters": "24",
+                "description": "A flavorful South Indian delicacy featuring soft, fluffy steamed cakes served with a delectably aromatic and tangy lentil soup."
+            },
+            {
+                "name": "Cheese Sada Dosa",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/8768afdf3877308d736ad077991a7aaa",
+                "price": "129",
+                "veg": true,
+                "rating": "4.3",
+                "raters": "20",
+                "description": "A delectable and cheesy delight from the Dosa Uttapam category, perfect for all cheese lovers."
+            },
+            {
+                "name": "Masala Dosa",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/ae3375bef8000ccb1494a04493c2b9b8",
+                "price": "99",
+                "veg": true,
+                "rating": "4.0",
+                "raters": "39",
+                "description": "A flavorful and savory South Indian delicacy, bursting with aromatic spices and served with a delightful accompaniment."
+            },
+            {
+                "name": "Butter Masala Dosa",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/73da3338a5ee58959a7748de08d99d95",
+                "price": "129",
+                "veg": true,
+                "rating": "4.3",
+                "raters": "8",
+                "description": "A delectable and rich combination of flavors, this indulgent dish will surely satisfy your cravings."
+            },
+            {
+                "name": "Paneer Kadai",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/8eabe4332f106c65e30a26b1f5c0aa84",
+                "price": "278",
+                "veg": true,
+                "rating": "4.0",
+                "raters": "5",
+                "description": "A savory and flavorful Punjabi delight showcasing tender paneer cooked in a rich and aromatic gravy."
+            },
+            {
+                "name": "Sada Dosa",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/4c16c0dd6ac85449a6a3312a0d405dc5",
+                "price": "75",
+                "veg": true,
+                "rating": "2.5",
+                "raters": "7",
+                "description": "A mouthwatering and flavorsome South Indian delicacy bursting with authentic flavors."
+            },
+            {
+                "name": "Onion Uttapam",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/76efb5d057e7cf44d75df6bbf3d6754c",
+                "price": "128",
+                "veg": true,
+                "rating": "4.3",
+                "raters": "14",
+                "description": "A flavorsome and savory Indian delight featuring a delightful medley of ingredients on a crispy base."
+            },
+            {
+                "name": "Onion Bhajiya",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/ec3b8539d23411d1fbc4504b53c4a408",
+                "price": "119",
+                "veg": true,
+                "rating": "4.6",
+                "raters": "6",
+                "description": "Crispy and flavorful Indian fritters bursting with aromatic spices."
+            },
+            {
+                "name": "Paneer Tikka",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/47fb651dc40d26276b8ae9734a4ed194",
+                "price": "255",
+                "veg": true,
+                "rating": "4.6",
+                "raters": "6",
+                "description": "Indulge in a succulent tandoori starter bursting with flavors of marinated cottage cheese grilled to perfection."
+            },
+            {
+                "name": "Paneer Masala",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/8b3a3c1fb94cdc5998686e8a4e03b92d",
+                "price": "240",
+                "veg": true,
+                "rating": "4.6",
+                "raters": "6",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "name": "Hotel Suraj",
+        "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/c2886f097cc7ecc85285901469b5d754",
+        "items": [
+            {
+                "name": "Paneer Butter Masala",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/abd2b615a4c505ba288c39611369127b",
+                "price": "240",
+                "veg": true,
+                "rating": "4.6",
+                "raters": "6",
+                "description": "Indulge in the rich, flavorful goodness of a creamy buttery curry featuring tender paneer cubes."
+            },
+            {
+                "name": "Paneer Handi",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/7e1ad9fa6238b31847c25a5728f3e27e",
+                "price": "240",
+                "veg": true,
+                "rating": "4.6",
+                "raters": "6",
+                "description": "A flavorful Indian delight filled with tender paneer and aromatic spices, perfect for a delightful feast."
+            },
+            {
+                "name": "Chicken Masala",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/c35ccdf204741d2f402ca862e26efc23",
+                "price": "264",
+                "veg": true,
+                "rating": "4.6",
+                "raters": "6",
+                "description": "A flavorful and aromatic chicken dish that will tantalize your taste buds with its rich flavors."
+            },
+            {
+                "name": "Chicken Kolhapuri",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/ff2402d4039e808e53aa9d234399bce7",
+                "price": "264",
+                "veg": true,
+                "rating": "4.6",
+                "raters": "6",
+                "description": "A flavorful and aromatic chicken main course that will transport your taste buds to the vibrant streets of Kolhapur."
+            },
+            {
+                "name": "Dal Tadka",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/bbcac91e4e52e40be69e697d715d2740",
+                "price": "132",
+                "veg": true,
+                "rating": "4.6",
+                "raters": "6",
+                "description": "A flavorful and aromatic delicacy that will tantalize your taste buds with its rich and comforting essence."
+            },
+            {
+                "name": "Vegetable Biryani",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/14f3b3444d0c159a53db1552848bfc46",
+                "price": "192",
+                "veg": true,
+                "rating": "4.6",
+                "raters": "6",
+                "description": "A fragrant and flavorful melody of aromatic basmati rice and garden-fresh vegetables, offering a delightful symphony of flavors and textures."
+            },
+            {
+                "name": "Vegetable Dum Biryani",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/7d5ff84b9a92c0371ea5859ae84c409f",
+                "price": "228",
+                "veg": true,
+                "rating": "4.6",
+                "raters": "6",
+                "description": "A fragrant and flavorful rice dish layered with aromatic spices and delectable vegetables."
+            },
+            {
+                "name": "Egg Biryani",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/fd9b6865109b22f11171cd7f93bf39f9",
+                "price": "204",
+                "veg": true,
+                "rating": "4.6",
+                "raters": "6",
+                "description": ""
+            },
+            {
+                "name": "Naan",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/463639a9a6399e0de3cbdd58162a86b0",
+                "price": "54",
+                "veg": true,
+                "rating": "4.6",
+                "raters": "6",
+                "description": "A delectable Indian bread that adds a flavorful touch to any meal."
+            },
+            {
+                "name": "Chola Batura",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/654d13d0d4d1ba14534f677ccc803bfa",
+                "price": "156",
+                "veg": true,
+                "rating": "4.6",
+                "raters": "6",
+                "description": "A satisfying and classic Indian dish, perfect for a hearty breakfast or a scrumptious snack."
+            }
+        ]
+    },
+    {
+        "name": "Freshly Homemade Food",
+        "img": "https://b.zmtcdn.com/data/pictures/9/20486809/6dac63c58c2133558d90d365b135b470_o2_featured_v2.jpg",
+        "items": [
+            {
+                "name": "Paneer Butter Masala",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/abd2b615a4c505ba288c39611369127b",
+                "price": "240",
+                "description": "Indulge in the rich, flavorful goodness of a creamy buttery curry featuring tender paneer cubes."
+            },
+            {
+                "name": "Paneer Handi",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/7e1ad9fa6238b31847c25a5728f3e27e",
+                "price": "240",
+                "description": "A flavorful Indian delight filled with tender paneer and aromatic spices, perfect for a delightful feast."
+            },
+            {
+                "name": "Chicken Masala",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/c35ccdf204741d2f402ca862e26efc23",
+                "price": "264",
+                "description": "A flavorful and aromatic chicken dish that will tantalize your taste buds with its rich flavors."
+            },
+            {
+                "name": "Chicken Kolhapuri",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/ff2402d4039e808e53aa9d234399bce7",
+                "price": "264",
+                "description": "A flavorful and aromatic chicken main course that will transport your taste buds to the vibrant streets of Kolhapur."
+            },
+            {
+                "name": "Dal Tadka",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/bbcac91e4e52e40be69e697d715d2740",
+                "price": "132",
+                "description": "A flavorful and aromatic delicacy that will tantalize your taste buds with its rich and comforting essence."
+            },
+            {
+                "name": "Vegetable Biryani",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/14f3b3444d0c159a53db1552848bfc46",
+                "price": "192",
+                "description": "A fragrant and flavorful melody of aromatic basmati rice and garden-fresh vegetables, offering a delightful symphony of flavors and textures."
+            },
+            {
+                "name": "Vegetable Dum Biryani",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/7d5ff84b9a92c0371ea5859ae84c409f",
+                "price": "228",
+                "description": "A fragrant and flavorful rice dish layered with aromatic spices and delectable vegetables."
+            },
+            {
+                "name": "Egg Biryani",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/fd9b6865109b22f11171cd7f93bf39f9",
+                "price": "204",
+                "description": ""
+            },
+            {
+                "name": "Naan",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/463639a9a6399e0de3cbdd58162a86b0",
+                "price": "54",
+                "description": "A delectable Indian bread that adds a flavorful touch to any meal."
+            },
+            {
+                "name": "Chola Batura",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/654d13d0d4d1ba14534f677ccc803bfa",
+                "price": "156",
+                "description": "A satisfying and classic Indian dish, perfect for a hearty breakfast or a scrumptious snack."
+            }
+        ]
+    },
+    {
+        "name": "Sabziwala Restaurant",
+        "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/c3efd0269b3829dc28df437463ed163c",
+        "items": [
+            {
+                "name": "Paneer Butter Masala",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/abd2b615a4c505ba288c39611369127b",
+                "price": "240",
+                "description": "Indulge in the rich, flavorful goodness of a creamy buttery curry featuring tender paneer cubes."
+            },
+            {
+                "name": "Paneer Handi",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/7e1ad9fa6238b31847c25a5728f3e27e",
+                "price": "240",
+                "description": "A flavorful Indian delight filled with tender paneer and aromatic spices, perfect for a delightful feast."
+            },
+            {
+                "name": "Chicken Masala",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/c35ccdf204741d2f402ca862e26efc23",
+                "price": "264",
+                "description": "A flavorful and aromatic chicken dish that will tantalize your taste buds with its rich flavors."
+            },
+            {
+                "name": "Chicken Kolhapuri",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/ff2402d4039e808e53aa9d234399bce7",
+                "price": "264",
+                "description": "A flavorful and aromatic chicken main course that will transport your taste buds to the vibrant streets of Kolhapur."
+            },
+            {
+                "name": "Dal Tadka",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/bbcac91e4e52e40be69e697d715d2740",
+                "price": "132",
+                "description": "A flavorful and aromatic delicacy that will tantalize your taste buds with its rich and comforting essence."
+            },
+            {
+                "name": "Vegetable Biryani",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/14f3b3444d0c159a53db1552848bfc46",
+                "price": "192",
+                "description": "A fragrant and flavorful melody of aromatic basmati rice and garden-fresh vegetables, offering a delightful symphony of flavors and textures."
+            },
+            {
+                "name": "Vegetable Dum Biryani",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/7d5ff84b9a92c0371ea5859ae84c409f",
+                "price": "228",
+                "description": "A fragrant and flavorful rice dish layered with aromatic spices and delectable vegetables."
+            },
+            {
+                "name": "Egg Biryani",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/fd9b6865109b22f11171cd7f93bf39f9",
+                "price": "204",
+                "description": ""
+            },
+            {
+                "name": "Naan",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/463639a9a6399e0de3cbdd58162a86b0",
+                "price": "54",
+                "description": "A delectable Indian bread that adds a flavorful touch to any meal."
+            },
+            {
+                "name": "Chola Batura",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/654d13d0d4d1ba14534f677ccc803bfa",
+                "price": "156",
+                "description": "A satisfying and classic Indian dish, perfect for a hearty breakfast or a scrumptious snack."
+            }
+        ]
+    },
+    {
+        "name": "Hotel GaribNawaz",
+        "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/emz0n1t5bqejm0duklzo",
+        "items": [
+            {
+                "name": "Paneer Butter Masala",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/abd2b615a4c505ba288c39611369127b",
+                "price": "240",
+                "description": "Indulge in the rich, flavorful goodness of a creamy buttery curry featuring tender paneer cubes."
+            },
+            {
+                "name": "Paneer Handi",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/7e1ad9fa6238b31847c25a5728f3e27e",
+                "price": "240",
+                "description": "A flavorful Indian delight filled with tender paneer and aromatic spices, perfect for a delightful feast."
+            },
+            {
+                "name": "Chicken Masala",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/c35ccdf204741d2f402ca862e26efc23",
+                "price": "264",
+                "description": "A flavorful and aromatic chicken dish that will tantalize your taste buds with its rich flavors."
+            },
+            {
+                "name": "Chicken Kolhapuri",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/ff2402d4039e808e53aa9d234399bce7",
+                "price": "264",
+                "description": "A flavorful and aromatic chicken main course that will transport your taste buds to the vibrant streets of Kolhapur."
+            },
+            {
+                "name": "Dal Tadka",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/bbcac91e4e52e40be69e697d715d2740",
+                "price": "132",
+                "description": "A flavorful and aromatic delicacy that will tantalize your taste buds with its rich and comforting essence."
+            },
+            {
+                "name": "Vegetable Biryani",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/14f3b3444d0c159a53db1552848bfc46",
+                "price": "192",
+                "description": "A fragrant and flavorful melody of aromatic basmati rice and garden-fresh vegetables, offering a delightful symphony of flavors and textures."
+            },
+            {
+                "name": "Vegetable Dum Biryani",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/7d5ff84b9a92c0371ea5859ae84c409f",
+                "price": "228",
+                "description": "A fragrant and flavorful rice dish layered with aromatic spices and delectable vegetables."
+            },
+            {
+                "name": "Egg Biryani",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/fd9b6865109b22f11171cd7f93bf39f9",
+                "price": "204",
+                "description": ""
+            },
+            {
+                "name": "Naan",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/463639a9a6399e0de3cbdd58162a86b0",
+                "price": "54",
+                "description": "A delectable Indian bread that adds a flavorful touch to any meal."
+            },
+            {
+                "name": "Chola Batura",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/654d13d0d4d1ba14534f677ccc803bfa",
+                "price": "156",
+                "description": "A satisfying and classic Indian dish, perfect for a hearty breakfast or a scrumptious snack."
+            }
+        ]
+    },
+    {
+        "name": "Omg Fast Food",
+        "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/rfyazkryw0ehgcnfburo",
+        "items": [
+            {
+                "name": "Paneer Butter Masala",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/abd2b615a4c505ba288c39611369127b",
+                "price": "240",
+                "description": "Indulge in the rich, flavorful goodness of a creamy buttery curry featuring tender paneer cubes."
+            },
+            {
+                "name": "Paneer Handi",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/7e1ad9fa6238b31847c25a5728f3e27e",
+                "price": "240",
+                "description": "A flavorful Indian delight filled with tender paneer and aromatic spices, perfect for a delightful feast."
+            },
+            {
+                "name": "Chicken Masala",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/c35ccdf204741d2f402ca862e26efc23",
+                "price": "264",
+                "description": "A flavorful and aromatic chicken dish that will tantalize your taste buds with its rich flavors."
+            },
+            {
+                "name": "Chicken Kolhapuri",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/ff2402d4039e808e53aa9d234399bce7",
+                "price": "264",
+                "description": "A flavorful and aromatic chicken main course that will transport your taste buds to the vibrant streets of Kolhapur."
+            },
+            {
+                "name": "Dal Tadka",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/bbcac91e4e52e40be69e697d715d2740",
+                "price": "132",
+                "description": "A flavorful and aromatic delicacy that will tantalize your taste buds with its rich and comforting essence."
+            },
+            {
+                "name": "Vegetable Biryani",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/14f3b3444d0c159a53db1552848bfc46",
+                "price": "192",
+                "description": "A fragrant and flavorful melody of aromatic basmati rice and garden-fresh vegetables, offering a delightful symphony of flavors and textures."
+            },
+            {
+                "name": "Vegetable Dum Biryani",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/7d5ff84b9a92c0371ea5859ae84c409f",
+                "price": "228",
+                "description": "A fragrant and flavorful rice dish layered with aromatic spices and delectable vegetables."
+            },
+            {
+                "name": "Egg Biryani",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/fd9b6865109b22f11171cd7f93bf39f9",
+                "price": "204",
+                "description": ""
+            },
+            {
+                "name": "Naan",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/463639a9a6399e0de3cbdd58162a86b0",
+                "price": "54",
+                "description": "A delectable Indian bread that adds a flavorful touch to any meal."
+            },
+            {
+                "name": "Chola Batura",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/654d13d0d4d1ba14534f677ccc803bfa",
+                "price": "156",
+                "description": "A satisfying and classic Indian dish, perfect for a hearty breakfast or a scrumptious snack."
+            }
+        ]
+    },
+    {
+        "name": "Ajay's",
+        "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/bl2es4b2nbrzgrtntmkb",
+        "items": [
+            {
+                "name": "Paneer Butter Masala",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/abd2b615a4c505ba288c39611369127b",
+                "price": "240",
+                "description": "Indulge in the rich, flavorful goodness of a creamy buttery curry featuring tender paneer cubes."
+            },
+            {
+                "name": "Paneer Handi",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/7e1ad9fa6238b31847c25a5728f3e27e",
+                "price": "240",
+                "description": "A flavorful Indian delight filled with tender paneer and aromatic spices, perfect for a delightful feast."
+            },
+            {
+                "name": "Chicken Masala",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/c35ccdf204741d2f402ca862e26efc23",
+                "price": "264",
+                "description": "A flavorful and aromatic chicken dish that will tantalize your taste buds with its rich flavors."
+            },
+            {
+                "name": "Chicken Kolhapuri",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/ff2402d4039e808e53aa9d234399bce7",
+                "price": "264",
+                "description": "A flavorful and aromatic chicken main course that will transport your taste buds to the vibrant streets of Kolhapur."
+            },
+            {
+                "name": "Dal Tadka",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/bbcac91e4e52e40be69e697d715d2740",
+                "price": "132",
+                "description": "A flavorful and aromatic delicacy that will tantalize your taste buds with its rich and comforting essence."
+            },
+            {
+                "name": "Vegetable Biryani",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/14f3b3444d0c159a53db1552848bfc46",
+                "price": "192",
+                "description": "A fragrant and flavorful melody of aromatic basmati rice and garden-fresh vegetables, offering a delightful symphony of flavors and textures."
+            },
+            {
+                "name": "Vegetable Dum Biryani",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/7d5ff84b9a92c0371ea5859ae84c409f",
+                "price": "228",
+                "description": "A fragrant and flavorful rice dish layered with aromatic spices and delectable vegetables."
+            },
+            {
+                "name": "Egg Biryani",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/fd9b6865109b22f11171cd7f93bf39f9",
+                "price": "204",
+                "description": ""
+            },
+            {
+                "name": "Naan",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/463639a9a6399e0de3cbdd58162a86b0",
+                "price": "54",
+                "description": "A delectable Indian bread that adds a flavorful touch to any meal."
+            },
+            {
+                "name": "Chola Batura",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/654d13d0d4d1ba14534f677ccc803bfa",
+                "price": "156",
+                "description": "A satisfying and classic Indian dish, perfect for a hearty breakfast or a scrumptious snack."
+            }
+        ]
+    },
+    {
+        "name": "Simply South Refreshment",
+        "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/mmgljqmap8dujnezdcgn",
+        "items": [
+            {
+                "name": "Paneer Butter Masala",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/abd2b615a4c505ba288c39611369127b",
+                "price": "240",
+                "description": "Indulge in the rich, flavorful goodness of a creamy buttery curry featuring tender paneer cubes."
+            },
+            {
+                "name": "Paneer Handi",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/7e1ad9fa6238b31847c25a5728f3e27e",
+                "price": "240",
+                "description": "A flavorful Indian delight filled with tender paneer and aromatic spices, perfect for a delightful feast."
+            },
+            {
+                "name": "Chicken Masala",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/c35ccdf204741d2f402ca862e26efc23",
+                "price": "264",
+                "description": "A flavorful and aromatic chicken dish that will tantalize your taste buds with its rich flavors."
+            },
+            {
+                "name": "Chicken Kolhapuri",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/ff2402d4039e808e53aa9d234399bce7",
+                "price": "264",
+                "description": "A flavorful and aromatic chicken main course that will transport your taste buds to the vibrant streets of Kolhapur."
+            },
+            {
+                "name": "Dal Tadka",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/bbcac91e4e52e40be69e697d715d2740",
+                "price": "132",
+                "description": "A flavorful and aromatic delicacy that will tantalize your taste buds with its rich and comforting essence."
+            },
+            {
+                "name": "Vegetable Biryani",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/14f3b3444d0c159a53db1552848bfc46",
+                "price": "192",
+                "description": "A fragrant and flavorful melody of aromatic basmati rice and garden-fresh vegetables, offering a delightful symphony of flavors and textures."
+            },
+            {
+                "name": "Vegetable Dum Biryani",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/7d5ff84b9a92c0371ea5859ae84c409f",
+                "price": "228",
+                "description": "A fragrant and flavorful rice dish layered with aromatic spices and delectable vegetables."
+            },
+            {
+                "name": "Egg Biryani",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/fd9b6865109b22f11171cd7f93bf39f9",
+                "price": "204",
+                "description": ""
+            },
+            {
+                "name": "Naan",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/463639a9a6399e0de3cbdd58162a86b0",
+                "price": "54",
+                "description": "A delectable Indian bread that adds a flavorful touch to any meal."
+            },
+            {
+                "name": "Chola Batura",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/654d13d0d4d1ba14534f677ccc803bfa",
+                "price": "156",
+                "description": "A satisfying and classic Indian dish, perfect for a hearty breakfast or a scrumptious snack."
+            }
+        ]
+    },
+    {
+        "name": "New Sofia Lunch Home",
+        "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/7423c03fa94719826e270ef5e291e880",
+        "items": [
+            {
+                "name": "Paneer Butter Masala",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/abd2b615a4c505ba288c39611369127b",
+                "price": "240",
+                "description": "Indulge in the rich, flavorful goodness of a creamy buttery curry featuring tender paneer cubes."
+            },
+            {
+                "name": "Paneer Handi",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/7e1ad9fa6238b31847c25a5728f3e27e",
+                "price": "240",
+                "description": "A flavorful Indian delight filled with tender paneer and aromatic spices, perfect for a delightful feast."
+            },
+            {
+                "name": "Chicken Masala",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/c35ccdf204741d2f402ca862e26efc23",
+                "price": "264",
+                "description": "A flavorful and aromatic chicken dish that will tantalize your taste buds with its rich flavors."
+            },
+            {
+                "name": "Chicken Kolhapuri",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/ff2402d4039e808e53aa9d234399bce7",
+                "price": "264",
+                "description": "A flavorful and aromatic chicken main course that will transport your taste buds to the vibrant streets of Kolhapur."
+            },
+            {
+                "name": "Dal Tadka",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/bbcac91e4e52e40be69e697d715d2740",
+                "price": "132",
+                "description": "A flavorful and aromatic delicacy that will tantalize your taste buds with its rich and comforting essence."
+            },
+            {
+                "name": "Vegetable Biryani",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/14f3b3444d0c159a53db1552848bfc46",
+                "price": "192",
+                "description": "A fragrant and flavorful melody of aromatic basmati rice and garden-fresh vegetables, offering a delightful symphony of flavors and textures."
+            },
+            {
+                "name": "Vegetable Dum Biryani",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/7d5ff84b9a92c0371ea5859ae84c409f",
+                "price": "228",
+                "description": "A fragrant and flavorful rice dish layered with aromatic spices and delectable vegetables."
+            },
+            {
+                "name": "Egg Biryani",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/fd9b6865109b22f11171cd7f93bf39f9",
+                "price": "204",
+                "description": ""
+            },
+            {
+                "name": "Naan",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/463639a9a6399e0de3cbdd58162a86b0",
+                "price": "54",
+                "description": "A delectable Indian bread that adds a flavorful touch to any meal."
+            },
+            {
+                "name": "Chola Batura",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/654d13d0d4d1ba14534f677ccc803bfa",
+                "price": "156",
+                "description": "A satisfying and classic Indian dish, perfect for a hearty breakfast or a scrumptious snack."
+            }
+        ]
+    },
+    {
+        "name": "The Veg Kutty's",
+        "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/f9bb23a4a8e7917ddc6329671c6913e6",
+        "items": [
+            {
+                "name": "Paneer Butter Masala",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/abd2b615a4c505ba288c39611369127b",
+                "price": "240",
+                "description": "Indulge in the rich, flavorful goodness of a creamy buttery curry featuring tender paneer cubes."
+            },
+            {
+                "name": "Paneer Handi",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/7e1ad9fa6238b31847c25a5728f3e27e",
+                "price": "240",
+                "description": "A flavorful Indian delight filled with tender paneer and aromatic spices, perfect for a delightful feast."
+            },
+            {
+                "name": "Chicken Masala",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/c35ccdf204741d2f402ca862e26efc23",
+                "price": "264",
+                "description": "A flavorful and aromatic chicken dish that will tantalize your taste buds with its rich flavors."
+            },
+            {
+                "name": "Chicken Kolhapuri",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/ff2402d4039e808e53aa9d234399bce7",
+                "price": "264",
+                "description": "A flavorful and aromatic chicken main course that will transport your taste buds to the vibrant streets of Kolhapur."
+            },
+            {
+                "name": "Dal Tadka",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/bbcac91e4e52e40be69e697d715d2740",
+                "price": "132",
+                "description": "A flavorful and aromatic delicacy that will tantalize your taste buds with its rich and comforting essence."
+            },
+            {
+                "name": "Vegetable Biryani",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/14f3b3444d0c159a53db1552848bfc46",
+                "price": "192",
+                "description": "A fragrant and flavorful melody of aromatic basmati rice and garden-fresh vegetables, offering a delightful symphony of flavors and textures."
+            },
+            {
+                "name": "Vegetable Dum Biryani",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/7d5ff84b9a92c0371ea5859ae84c409f",
+                "price": "228",
+                "description": "A fragrant and flavorful rice dish layered with aromatic spices and delectable vegetables."
+            },
+            {
+                "name": "Egg Biryani",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/fd9b6865109b22f11171cd7f93bf39f9",
+                "price": "204",
+                "description": ""
+            },
+            {
+                "name": "Naan",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/463639a9a6399e0de3cbdd58162a86b0",
+                "price": "54",
+                "description": "A delectable Indian bread that adds a flavorful touch to any meal."
+            },
+            {
+                "name": "Chola Batura",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/654d13d0d4d1ba14534f677ccc803bfa",
+                "price": "156",
+                "description": "A satisfying and classic Indian dish, perfect for a hearty breakfast or a scrumptious snack."
+            }
+        ]
+    },
+    {
+        "name": "Foodies Point",
+        "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/tn4ypweom3kzzebxl2h4",
+        "items": [
+            {
+                "name": "Paneer Butter Masala",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/abd2b615a4c505ba288c39611369127b",
+                "price": "240",
+                "description": "Indulge in the rich, flavorful goodness of a creamy buttery curry featuring tender paneer cubes."
+            },
+            {
+                "name": "Paneer Handi",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/7e1ad9fa6238b31847c25a5728f3e27e",
+                "price": "240",
+                "description": "A flavorful Indian delight filled with tender paneer and aromatic spices, perfect for a delightful feast."
+            },
+            {
+                "name": "Chicken Masala",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/c35ccdf204741d2f402ca862e26efc23",
+                "price": "264",
+                "description": "A flavorful and aromatic chicken dish that will tantalize your taste buds with its rich flavors."
+            },
+            {
+                "name": "Chicken Kolhapuri",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/ff2402d4039e808e53aa9d234399bce7",
+                "price": "264",
+                "description": "A flavorful and aromatic chicken main course that will transport your taste buds to the vibrant streets of Kolhapur."
+            },
+            {
+                "name": "Dal Tadka",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/bbcac91e4e52e40be69e697d715d2740",
+                "price": "132",
+                "description": "A flavorful and aromatic delicacy that will tantalize your taste buds with its rich and comforting essence."
+            },
+            {
+                "name": "Vegetable Biryani",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/14f3b3444d0c159a53db1552848bfc46",
+                "price": "192",
+                "description": "A fragrant and flavorful melody of aromatic basmati rice and garden-fresh vegetables, offering a delightful symphony of flavors and textures."
+            },
+            {
+                "name": "Vegetable Dum Biryani",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/7d5ff84b9a92c0371ea5859ae84c409f",
+                "price": "228",
+                "description": "A fragrant and flavorful rice dish layered with aromatic spices and delectable vegetables."
+            },
+            {
+                "name": "Egg Biryani",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/fd9b6865109b22f11171cd7f93bf39f9",
+                "price": "204",
+                "description": ""
+            },
+            {
+                "name": "Naan",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/463639a9a6399e0de3cbdd58162a86b0",
+                "price": "54",
+                "description": "A delectable Indian bread that adds a flavorful touch to any meal."
+            },
+            {
+                "name": "Chola Batura",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/654d13d0d4d1ba14534f677ccc803bfa",
+                "price": "156",
+                "description": "A satisfying and classic Indian dish, perfect for a hearty breakfast or a scrumptious snack."
+            }
+        ]
+    },
+    {
+        "name": "Domino's Pizza",
+        "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/d0450ce1a6ba19ea60cd724471ed54a8",
+        "items": [
+            {
+                "name": "Paneer Butter Masala",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/abd2b615a4c505ba288c39611369127b",
+                "price": "240",
+                "description": "Indulge in the rich, flavorful goodness of a creamy buttery curry featuring tender paneer cubes."
+            },
+            {
+                "name": "Paneer Handi",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/7e1ad9fa6238b31847c25a5728f3e27e",
+                "price": "240",
+                "description": "A flavorful Indian delight filled with tender paneer and aromatic spices, perfect for a delightful feast."
+            },
+            {
+                "name": "Chicken Masala",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/c35ccdf204741d2f402ca862e26efc23",
+                "price": "264",
+                "description": "A flavorful and aromatic chicken dish that will tantalize your taste buds with its rich flavors."
+            },
+            {
+                "name": "Chicken Kolhapuri",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/ff2402d4039e808e53aa9d234399bce7",
+                "price": "264",
+                "description": "A flavorful and aromatic chicken main course that will transport your taste buds to the vibrant streets of Kolhapur."
+            },
+            {
+                "name": "Dal Tadka",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/bbcac91e4e52e40be69e697d715d2740",
+                "price": "132",
+                "description": "A flavorful and aromatic delicacy that will tantalize your taste buds with its rich and comforting essence."
+            },
+            {
+                "name": "Vegetable Biryani",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/14f3b3444d0c159a53db1552848bfc46",
+                "price": "192",
+                "description": "A fragrant and flavorful melody of aromatic basmati rice and garden-fresh vegetables, offering a delightful symphony of flavors and textures."
+            },
+            {
+                "name": "Vegetable Dum Biryani",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/7d5ff84b9a92c0371ea5859ae84c409f",
+                "price": "228",
+                "description": "A fragrant and flavorful rice dish layered with aromatic spices and delectable vegetables."
+            },
+            {
+                "name": "Egg Biryani",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/fd9b6865109b22f11171cd7f93bf39f9",
+                "price": "204",
+                "description": ""
+            },
+            {
+                "name": "Naan",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/463639a9a6399e0de3cbdd58162a86b0",
+                "price": "54",
+                "description": "A delectable Indian bread that adds a flavorful touch to any meal."
+            },
+            {
+                "name": "Chola Batura",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/654d13d0d4d1ba14534f677ccc803bfa",
+                "price": "156",
+                "description": "A satisfying and classic Indian dish, perfect for a hearty breakfast or a scrumptious snack."
+            }
+        ]
+    },
+    {
+        "name": "La Pino'z Pizza",
+        "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/5fe4444a065b60c4fe39ef975222c12b",
+        "items": [
+            {
+                "name": "Paneer Butter Masala",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/abd2b615a4c505ba288c39611369127b",
+                "price": "240",
+                "description": "Indulge in the rich, flavorful goodness of a creamy buttery curry featuring tender paneer cubes."
+            },
+            {
+                "name": "Paneer Handi",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/7e1ad9fa6238b31847c25a5728f3e27e",
+                "price": "240",
+                "description": "A flavorful Indian delight filled with tender paneer and aromatic spices, perfect for a delightful feast."
+            },
+            {
+                "name": "Chicken Masala",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/c35ccdf204741d2f402ca862e26efc23",
+                "price": "264",
+                "description": "A flavorful and aromatic chicken dish that will tantalize your taste buds with its rich flavors."
+            },
+            {
+                "name": "Chicken Kolhapuri",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/ff2402d4039e808e53aa9d234399bce7",
+                "price": "264",
+                "description": "A flavorful and aromatic chicken main course that will transport your taste buds to the vibrant streets of Kolhapur."
+            },
+            {
+                "name": "Dal Tadka",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/bbcac91e4e52e40be69e697d715d2740",
+                "price": "132",
+                "description": "A flavorful and aromatic delicacy that will tantalize your taste buds with its rich and comforting essence."
+            },
+            {
+                "name": "Vegetable Biryani",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/14f3b3444d0c159a53db1552848bfc46",
+                "price": "192",
+                "description": "A fragrant and flavorful melody of aromatic basmati rice and garden-fresh vegetables, offering a delightful symphony of flavors and textures."
+            },
+            {
+                "name": "Vegetable Dum Biryani",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/7d5ff84b9a92c0371ea5859ae84c409f",
+                "price": "228",
+                "description": "A fragrant and flavorful rice dish layered with aromatic spices and delectable vegetables."
+            },
+            {
+                "name": "Egg Biryani",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/fd9b6865109b22f11171cd7f93bf39f9",
+                "price": "204",
+                "description": ""
+            },
+            {
+                "name": "Naan",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/463639a9a6399e0de3cbdd58162a86b0",
+                "price": "54",
+                "description": "A delectable Indian bread that adds a flavorful touch to any meal."
+            },
+            {
+                "name": "Chola Batura",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/654d13d0d4d1ba14534f677ccc803bfa",
+                "price": "156",
+                "description": "A satisfying and classic Indian dish, perfect for a hearty breakfast or a scrumptious snack."
+            }
+        ]
+    },
+    {
+        "name": "The Belgian Waffle Co.",
+        "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/5116a385bac0548e06c33c08350fbf11",
+        "items": [
+            {
+                "name": "Paneer Butter Masala",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/abd2b615a4c505ba288c39611369127b",
+                "price": "240",
+                "description": "Indulge in the rich, flavorful goodness of a creamy buttery curry featuring tender paneer cubes."
+            },
+            {
+                "name": "Paneer Handi",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/7e1ad9fa6238b31847c25a5728f3e27e",
+                "price": "240",
+                "description": "A flavorful Indian delight filled with tender paneer and aromatic spices, perfect for a delightful feast."
+            },
+            {
+                "name": "Chicken Masala",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/c35ccdf204741d2f402ca862e26efc23",
+                "price": "264",
+                "description": "A flavorful and aromatic chicken dish that will tantalize your taste buds with its rich flavors."
+            },
+            {
+                "name": "Chicken Kolhapuri",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/ff2402d4039e808e53aa9d234399bce7",
+                "price": "264",
+                "description": "A flavorful and aromatic chicken main course that will transport your taste buds to the vibrant streets of Kolhapur."
+            },
+            {
+                "name": "Dal Tadka",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/bbcac91e4e52e40be69e697d715d2740",
+                "price": "132",
+                "description": "A flavorful and aromatic delicacy that will tantalize your taste buds with its rich and comforting essence."
+            },
+            {
+                "name": "Vegetable Biryani",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/14f3b3444d0c159a53db1552848bfc46",
+                "price": "192",
+                "description": "A fragrant and flavorful melody of aromatic basmati rice and garden-fresh vegetables, offering a delightful symphony of flavors and textures."
+            },
+            {
+                "name": "Vegetable Dum Biryani",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/7d5ff84b9a92c0371ea5859ae84c409f",
+                "price": "228",
+                "description": "A fragrant and flavorful rice dish layered with aromatic spices and delectable vegetables."
+            },
+            {
+                "name": "Egg Biryani",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/fd9b6865109b22f11171cd7f93bf39f9",
+                "price": "204",
+                "description": ""
+            },
+            {
+                "name": "Naan",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/463639a9a6399e0de3cbdd58162a86b0",
+                "price": "54",
+                "description": "A delectable Indian bread that adds a flavorful touch to any meal."
+            },
+            {
+                "name": "Chola Batura",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/654d13d0d4d1ba14534f677ccc803bfa",
+                "price": "156",
+                "description": "A satisfying and classic Indian dish, perfect for a hearty breakfast or a scrumptious snack."
+            }
+        ]
+    },
+    {
+        "name": "The Big Tummy",
+        "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/wax47fkzkf6z3bphy250",
+        "items": [
+            {
+                "name": "Paneer Butter Masala",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/abd2b615a4c505ba288c39611369127b",
+                "price": "240",
+                "description": "Indulge in the rich, flavorful goodness of a creamy buttery curry featuring tender paneer cubes."
+            },
+            {
+                "name": "Paneer Handi",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/7e1ad9fa6238b31847c25a5728f3e27e",
+                "price": "240",
+                "description": "A flavorful Indian delight filled with tender paneer and aromatic spices, perfect for a delightful feast."
+            },
+            {
+                "name": "Chicken Masala",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/c35ccdf204741d2f402ca862e26efc23",
+                "price": "264",
+                "description": "A flavorful and aromatic chicken dish that will tantalize your taste buds with its rich flavors."
+            },
+            {
+                "name": "Chicken Kolhapuri",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/ff2402d4039e808e53aa9d234399bce7",
+                "price": "264",
+                "description": "A flavorful and aromatic chicken main course that will transport your taste buds to the vibrant streets of Kolhapur."
+            },
+            {
+                "name": "Dal Tadka",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/bbcac91e4e52e40be69e697d715d2740",
+                "price": "132",
+                "description": "A flavorful and aromatic delicacy that will tantalize your taste buds with its rich and comforting essence."
+            },
+            {
+                "name": "Vegetable Biryani",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/14f3b3444d0c159a53db1552848bfc46",
+                "price": "192",
+                "description": "A fragrant and flavorful melody of aromatic basmati rice and garden-fresh vegetables, offering a delightful symphony of flavors and textures."
+            },
+            {
+                "name": "Vegetable Dum Biryani",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/7d5ff84b9a92c0371ea5859ae84c409f",
+                "price": "228",
+                "description": "A fragrant and flavorful rice dish layered with aromatic spices and delectable vegetables."
+            },
+            {
+                "name": "Egg Biryani",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/fd9b6865109b22f11171cd7f93bf39f9",
+                "price": "204",
+                "description": ""
+            },
+            {
+                "name": "Naan",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/463639a9a6399e0de3cbdd58162a86b0",
+                "price": "54",
+                "description": "A delectable Indian bread that adds a flavorful touch to any meal."
+            },
+            {
+                "name": "Chola Batura",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/654d13d0d4d1ba14534f677ccc803bfa",
+                "price": "156",
+                "description": "A satisfying and classic Indian dish, perfect for a hearty breakfast or a scrumptious snack."
+            }
+        ]
+    },
+    {
+        "name": "Grill Inn",
+        "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/632a646d685ead0353ff4052760e547b",
+        "items": [
+            {
+                "name": "Paneer Butter Masala",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/abd2b615a4c505ba288c39611369127b",
+                "price": "240",
+                "description": "Indulge in the rich, flavorful goodness of a creamy buttery curry featuring tender paneer cubes."
+            },
+            {
+                "name": "Paneer Handi",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/7e1ad9fa6238b31847c25a5728f3e27e",
+                "price": "240",
+                "description": "A flavorful Indian delight filled with tender paneer and aromatic spices, perfect for a delightful feast."
+            },
+            {
+                "name": "Chicken Masala",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/c35ccdf204741d2f402ca862e26efc23",
+                "price": "264",
+                "description": "A flavorful and aromatic chicken dish that will tantalize your taste buds with its rich flavors."
+            },
+            {
+                "name": "Chicken Kolhapuri",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/ff2402d4039e808e53aa9d234399bce7",
+                "price": "264",
+                "description": "A flavorful and aromatic chicken main course that will transport your taste buds to the vibrant streets of Kolhapur."
+            },
+            {
+                "name": "Dal Tadka",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/bbcac91e4e52e40be69e697d715d2740",
+                "price": "132",
+                "description": "A flavorful and aromatic delicacy that will tantalize your taste buds with its rich and comforting essence."
+            },
+            {
+                "name": "Vegetable Biryani",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/14f3b3444d0c159a53db1552848bfc46",
+                "price": "192",
+                "description": "A fragrant and flavorful melody of aromatic basmati rice and garden-fresh vegetables, offering a delightful symphony of flavors and textures."
+            },
+            {
+                "name": "Vegetable Dum Biryani",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/7d5ff84b9a92c0371ea5859ae84c409f",
+                "price": "228",
+                "description": "A fragrant and flavorful rice dish layered with aromatic spices and delectable vegetables."
+            },
+            {
+                "name": "Egg Biryani",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/fd9b6865109b22f11171cd7f93bf39f9",
+                "price": "204",
+                "description": ""
+            },
+            {
+                "name": "Naan",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/463639a9a6399e0de3cbdd58162a86b0",
+                "price": "54",
+                "description": "A delectable Indian bread that adds a flavorful touch to any meal."
+            },
+            {
+                "name": "Chola Batura",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/654d13d0d4d1ba14534f677ccc803bfa",
+                "price": "156",
+                "description": "A satisfying and classic Indian dish, perfect for a hearty breakfast or a scrumptious snack."
+            }
+        ]
+    },
+    {
+        "name": "Glorious Choco Pub",
+        "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/da1592b50bb1824b6ad0e162f5d0164d",
+        "items": [
+            {
+                "name": "Paneer Butter Masala",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/abd2b615a4c505ba288c39611369127b",
+                "price": "240",
+                "description": "Indulge in the rich, flavorful goodness of a creamy buttery curry featuring tender paneer cubes."
+            },
+            {
+                "name": "Paneer Handi",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/7e1ad9fa6238b31847c25a5728f3e27e",
+                "price": "240",
+                "description": "A flavorful Indian delight filled with tender paneer and aromatic spices, perfect for a delightful feast."
+            },
+            {
+                "name": "Chicken Masala",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/c35ccdf204741d2f402ca862e26efc23",
+                "price": "264",
+                "description": "A flavorful and aromatic chicken dish that will tantalize your taste buds with its rich flavors."
+            },
+            {
+                "name": "Chicken Kolhapuri",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/ff2402d4039e808e53aa9d234399bce7",
+                "price": "264",
+                "description": "A flavorful and aromatic chicken main course that will transport your taste buds to the vibrant streets of Kolhapur."
+            },
+            {
+                "name": "Dal Tadka",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/bbcac91e4e52e40be69e697d715d2740",
+                "price": "132",
+                "description": "A flavorful and aromatic delicacy that will tantalize your taste buds with its rich and comforting essence."
+            },
+            {
+                "name": "Vegetable Biryani",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/14f3b3444d0c159a53db1552848bfc46",
+                "price": "192",
+                "description": "A fragrant and flavorful melody of aromatic basmati rice and garden-fresh vegetables, offering a delightful symphony of flavors and textures."
+            },
+            {
+                "name": "Vegetable Dum Biryani",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/7d5ff84b9a92c0371ea5859ae84c409f",
+                "price": "228",
+                "description": "A fragrant and flavorful rice dish layered with aromatic spices and delectable vegetables."
+            },
+            {
+                "name": "Egg Biryani",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/fd9b6865109b22f11171cd7f93bf39f9",
+                "price": "204",
+                "description": ""
+            },
+            {
+                "name": "Naan",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/463639a9a6399e0de3cbdd58162a86b0",
+                "price": "54",
+                "description": "A delectable Indian bread that adds a flavorful touch to any meal."
+            },
+            {
+                "name": "Chola Batura",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/654d13d0d4d1ba14534f677ccc803bfa",
+                "price": "156",
+                "description": "A satisfying and classic Indian dish, perfect for a hearty breakfast or a scrumptious snack."
+            }
+        ]
+    },
+    {
+        "name": "Omg Bakers",
+        "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/adowmegawksvyiusrv24",
+        "items": [
+            {
+                "name": "Paneer Butter Masala",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/abd2b615a4c505ba288c39611369127b",
+                "price": "240",
+                "description": "Indulge in the rich, flavorful goodness of a creamy buttery curry featuring tender paneer cubes."
+            },
+            {
+                "name": "Paneer Handi",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/7e1ad9fa6238b31847c25a5728f3e27e",
+                "price": "240",
+                "description": "A flavorful Indian delight filled with tender paneer and aromatic spices, perfect for a delightful feast."
+            },
+            {
+                "name": "Chicken Masala",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/c35ccdf204741d2f402ca862e26efc23",
+                "price": "264",
+                "description": "A flavorful and aromatic chicken dish that will tantalize your taste buds with its rich flavors."
+            },
+            {
+                "name": "Chicken Kolhapuri",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/ff2402d4039e808e53aa9d234399bce7",
+                "price": "264",
+                "description": "A flavorful and aromatic chicken main course that will transport your taste buds to the vibrant streets of Kolhapur."
+            },
+            {
+                "name": "Dal Tadka",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/bbcac91e4e52e40be69e697d715d2740",
+                "price": "132",
+                "description": "A flavorful and aromatic delicacy that will tantalize your taste buds with its rich and comforting essence."
+            },
+            {
+                "name": "Vegetable Biryani",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/14f3b3444d0c159a53db1552848bfc46",
+                "price": "192",
+                "description": "A fragrant and flavorful melody of aromatic basmati rice and garden-fresh vegetables, offering a delightful symphony of flavors and textures."
+            },
+            {
+                "name": "Vegetable Dum Biryani",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/7d5ff84b9a92c0371ea5859ae84c409f",
+                "price": "228",
+                "description": "A fragrant and flavorful rice dish layered with aromatic spices and delectable vegetables."
+            },
+            {
+                "name": "Egg Biryani",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/fd9b6865109b22f11171cd7f93bf39f9",
+                "price": "204",
+                "description": ""
+            },
+            {
+                "name": "Naan",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/463639a9a6399e0de3cbdd58162a86b0",
+                "price": "54",
+                "description": "A delectable Indian bread that adds a flavorful touch to any meal."
+            },
+            {
+                "name": "Chola Batura",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/654d13d0d4d1ba14534f677ccc803bfa",
+                "price": "156",
+                "description": "A satisfying and classic Indian dish, perfect for a hearty breakfast or a scrumptious snack."
+            }
+        ]
+    },
+    {
+        "name": "Sofia Family Restaurant",
+        "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/RX_THUMBNAIL/IMAGES/VENDOR/2024/5/23/5b557fd1-256f-4b9c-918b-13ba7b7e1231_893973.jpg",
+        "items": [
+            {
+                "name": "Paneer Butter Masala",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/abd2b615a4c505ba288c39611369127b",
+                "price": "240",
+                "description": "Indulge in the rich, flavorful goodness of a creamy buttery curry featuring tender paneer cubes."
+            },
+            {
+                "name": "Paneer Handi",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/7e1ad9fa6238b31847c25a5728f3e27e",
+                "price": "240",
+                "description": "A flavorful Indian delight filled with tender paneer and aromatic spices, perfect for a delightful feast."
+            },
+            {
+                "name": "Chicken Masala",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/c35ccdf204741d2f402ca862e26efc23",
+                "price": "264",
+                "description": "A flavorful and aromatic chicken dish that will tantalize your taste buds with its rich flavors."
+            },
+            {
+                "name": "Chicken Kolhapuri",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/ff2402d4039e808e53aa9d234399bce7",
+                "price": "264",
+                "description": "A flavorful and aromatic chicken main course that will transport your taste buds to the vibrant streets of Kolhapur."
+            },
+            {
+                "name": "Dal Tadka",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/bbcac91e4e52e40be69e697d715d2740",
+                "price": "132",
+                "description": "A flavorful and aromatic delicacy that will tantalize your taste buds with its rich and comforting essence."
+            },
+            {
+                "name": "Vegetable Biryani",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/14f3b3444d0c159a53db1552848bfc46",
+                "price": "192",
+                "description": "A fragrant and flavorful melody of aromatic basmati rice and garden-fresh vegetables, offering a delightful symphony of flavors and textures."
+            },
+            {
+                "name": "Vegetable Dum Biryani",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/7d5ff84b9a92c0371ea5859ae84c409f",
+                "price": "228",
+                "description": "A fragrant and flavorful rice dish layered with aromatic spices and delectable vegetables."
+            },
+            {
+                "name": "Egg Biryani",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/fd9b6865109b22f11171cd7f93bf39f9",
+                "price": "204",
+                "description": ""
+            },
+            {
+                "name": "Naan",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/463639a9a6399e0de3cbdd58162a86b0",
+                "price": "54",
+                "description": "A delectable Indian bread that adds a flavorful touch to any meal."
+            },
+            {
+                "name": "Chola Batura",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/654d13d0d4d1ba14534f677ccc803bfa",
+                "price": "156",
+                "description": "A satisfying and classic Indian dish, perfect for a hearty breakfast or a scrumptious snack."
+            }
+        ]
+    },
+    {
+        "name": "Yash Fast Food",
+        "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/w7j2jagcmzhxibgkyfl4",
+        "items": [
+            {
+                "name": "Paneer Butter Masala",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/abd2b615a4c505ba288c39611369127b",
+                "price": "240",
+                "description": "Indulge in the rich, flavorful goodness of a creamy buttery curry featuring tender paneer cubes."
+            },
+            {
+                "name": "Paneer Handi",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/7e1ad9fa6238b31847c25a5728f3e27e",
+                "price": "240",
+                "description": "A flavorful Indian delight filled with tender paneer and aromatic spices, perfect for a delightful feast."
+            },
+            {
+                "name": "Chicken Masala",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/c35ccdf204741d2f402ca862e26efc23",
+                "price": "264",
+                "description": "A flavorful and aromatic chicken dish that will tantalize your taste buds with its rich flavors."
+            },
+            {
+                "name": "Chicken Kolhapuri",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/ff2402d4039e808e53aa9d234399bce7",
+                "price": "264",
+                "description": "A flavorful and aromatic chicken main course that will transport your taste buds to the vibrant streets of Kolhapur."
+            },
+            {
+                "name": "Dal Tadka",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/bbcac91e4e52e40be69e697d715d2740",
+                "price": "132",
+                "description": "A flavorful and aromatic delicacy that will tantalize your taste buds with its rich and comforting essence."
+            },
+            {
+                "name": "Vegetable Biryani",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/14f3b3444d0c159a53db1552848bfc46",
+                "price": "192",
+                "description": "A fragrant and flavorful melody of aromatic basmati rice and garden-fresh vegetables, offering a delightful symphony of flavors and textures."
+            },
+            {
+                "name": "Vegetable Dum Biryani",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/7d5ff84b9a92c0371ea5859ae84c409f",
+                "price": "228",
+                "description": "A fragrant and flavorful rice dish layered with aromatic spices and delectable vegetables."
+            },
+            {
+                "name": "Egg Biryani",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/fd9b6865109b22f11171cd7f93bf39f9",
+                "price": "204",
+                "description": ""
+            },
+            {
+                "name": "Naan",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/463639a9a6399e0de3cbdd58162a86b0",
+                "price": "54",
+                "description": "A delectable Indian bread that adds a flavorful touch to any meal."
+            },
+            {
+                "name": "Chola Batura",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/654d13d0d4d1ba14534f677ccc803bfa",
+                "price": "156",
+                "description": "A satisfying and classic Indian dish, perfect for a hearty breakfast or a scrumptious snack."
+            }
+        ]
+    },
+    {
+        "name": "Egg N Eggs",
+        "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/0e0a53130b316e7c08cbe6d40d14431c",
+        "items": [
+            {
+                "name": "Paneer Butter Masala",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/abd2b615a4c505ba288c39611369127b",
+                "price": "240",
+                "description": "Indulge in the rich, flavorful goodness of a creamy buttery curry featuring tender paneer cubes."
+            },
+            {
+                "name": "Paneer Handi",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/7e1ad9fa6238b31847c25a5728f3e27e",
+                "price": "240",
+                "description": "A flavorful Indian delight filled with tender paneer and aromatic spices, perfect for a delightful feast."
+            },
+            {
+                "name": "Chicken Masala",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/c35ccdf204741d2f402ca862e26efc23",
+                "price": "264",
+                "description": "A flavorful and aromatic chicken dish that will tantalize your taste buds with its rich flavors."
+            },
+            {
+                "name": "Chicken Kolhapuri",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/ff2402d4039e808e53aa9d234399bce7",
+                "price": "264",
+                "description": "A flavorful and aromatic chicken main course that will transport your taste buds to the vibrant streets of Kolhapur."
+            },
+            {
+                "name": "Dal Tadka",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/bbcac91e4e52e40be69e697d715d2740",
+                "price": "132",
+                "description": "A flavorful and aromatic delicacy that will tantalize your taste buds with its rich and comforting essence."
+            },
+            {
+                "name": "Vegetable Biryani",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/14f3b3444d0c159a53db1552848bfc46",
+                "price": "192",
+                "description": "A fragrant and flavorful melody of aromatic basmati rice and garden-fresh vegetables, offering a delightful symphony of flavors and textures."
+            },
+            {
+                "name": "Vegetable Dum Biryani",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/7d5ff84b9a92c0371ea5859ae84c409f",
+                "price": "228",
+                "description": "A fragrant and flavorful rice dish layered with aromatic spices and delectable vegetables."
+            },
+            {
+                "name": "Egg Biryani",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/fd9b6865109b22f11171cd7f93bf39f9",
+                "price": "204",
+                "description": ""
+            },
+            {
+                "name": "Naan",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/463639a9a6399e0de3cbdd58162a86b0",
+                "price": "54",
+                "description": "A delectable Indian bread that adds a flavorful touch to any meal."
+            },
+            {
+                "name": "Chola Batura",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/654d13d0d4d1ba14534f677ccc803bfa",
+                "price": "156",
+                "description": "A satisfying and classic Indian dish, perfect for a hearty breakfast or a scrumptious snack."
+            }
+        ]
+    },
+    {
+        "name": "Red Chillee Restro",
+        "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/8afc93d72321628923b8b51ae98a0d5c",
+        "items": [
+            {
+                "name": "Paneer Butter Masala",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/abd2b615a4c505ba288c39611369127b",
+                "price": "240",
+                "description": "Indulge in the rich, flavorful goodness of a creamy buttery curry featuring tender paneer cubes."
+            },
+            {
+                "name": "Paneer Handi",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/7e1ad9fa6238b31847c25a5728f3e27e",
+                "price": "240",
+                "description": "A flavorful Indian delight filled with tender paneer and aromatic spices, perfect for a delightful feast."
+            },
+            {
+                "name": "Chicken Masala",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/c35ccdf204741d2f402ca862e26efc23",
+                "price": "264",
+                "description": "A flavorful and aromatic chicken dish that will tantalize your taste buds with its rich flavors."
+            },
+            {
+                "name": "Chicken Kolhapuri",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/ff2402d4039e808e53aa9d234399bce7",
+                "price": "264",
+                "description": "A flavorful and aromatic chicken main course that will transport your taste buds to the vibrant streets of Kolhapur."
+            },
+            {
+                "name": "Dal Tadka",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/bbcac91e4e52e40be69e697d715d2740",
+                "price": "132",
+                "description": "A flavorful and aromatic delicacy that will tantalize your taste buds with its rich and comforting essence."
+            },
+            {
+                "name": "Vegetable Biryani",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/14f3b3444d0c159a53db1552848bfc46",
+                "price": "192",
+                "description": "A fragrant and flavorful melody of aromatic basmati rice and garden-fresh vegetables, offering a delightful symphony of flavors and textures."
+            },
+            {
+                "name": "Vegetable Dum Biryani",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/7d5ff84b9a92c0371ea5859ae84c409f",
+                "price": "228",
+                "description": "A fragrant and flavorful rice dish layered with aromatic spices and delectable vegetables."
+            },
+            {
+                "name": "Egg Biryani",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/fd9b6865109b22f11171cd7f93bf39f9",
+                "price": "204",
+                "description": ""
+            },
+            {
+                "name": "Naan",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/463639a9a6399e0de3cbdd58162a86b0",
+                "price": "54",
+                "description": "A delectable Indian bread that adds a flavorful touch to any meal."
+            },
+            {
+                "name": "Chola Batura",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/654d13d0d4d1ba14534f677ccc803bfa",
+                "price": "156",
+                "description": "A satisfying and classic Indian dish, perfect for a hearty breakfast or a scrumptious snack."
+            }
+        ]
+    },
+    {
+        "name": "Zahid Fast Food",
+        "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/180c2c5e383787497c83077adc5b7d4f",
+        "items": [
+            {
+                "name": "Paneer Butter Masala",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/abd2b615a4c505ba288c39611369127b",
+                "price": "240",
+                "description": "Indulge in the rich, flavorful goodness of a creamy buttery curry featuring tender paneer cubes."
+            },
+            {
+                "name": "Paneer Handi",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/7e1ad9fa6238b31847c25a5728f3e27e",
+                "price": "240",
+                "description": "A flavorful Indian delight filled with tender paneer and aromatic spices, perfect for a delightful feast."
+            },
+            {
+                "name": "Chicken Masala",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/c35ccdf204741d2f402ca862e26efc23",
+                "price": "264",
+                "description": "A flavorful and aromatic chicken dish that will tantalize your taste buds with its rich flavors."
+            },
+            {
+                "name": "Chicken Kolhapuri",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/ff2402d4039e808e53aa9d234399bce7",
+                "price": "264",
+                "description": "A flavorful and aromatic chicken main course that will transport your taste buds to the vibrant streets of Kolhapur."
+            },
+            {
+                "name": "Dal Tadka",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/bbcac91e4e52e40be69e697d715d2740",
+                "price": "132",
+                "description": "A flavorful and aromatic delicacy that will tantalize your taste buds with its rich and comforting essence."
+            },
+            {
+                "name": "Vegetable Biryani",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/14f3b3444d0c159a53db1552848bfc46",
+                "price": "192",
+                "description": "A fragrant and flavorful melody of aromatic basmati rice and garden-fresh vegetables, offering a delightful symphony of flavors and textures."
+            },
+            {
+                "name": "Vegetable Dum Biryani",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/7d5ff84b9a92c0371ea5859ae84c409f",
+                "price": "228",
+                "description": "A fragrant and flavorful rice dish layered with aromatic spices and delectable vegetables."
+            },
+            {
+                "name": "Egg Biryani",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/fd9b6865109b22f11171cd7f93bf39f9",
+                "price": "204",
+                "description": ""
+            },
+            {
+                "name": "Naan",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/463639a9a6399e0de3cbdd58162a86b0",
+                "price": "54",
+                "description": "A delectable Indian bread that adds a flavorful touch to any meal."
+            },
+            {
+                "name": "Chola Batura",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/654d13d0d4d1ba14534f677ccc803bfa",
+                "price": "156",
+                "description": "A satisfying and classic Indian dish, perfect for a hearty breakfast or a scrumptious snack."
+            }
+        ]
+    },
+    {
+        "name": "Yewale Amruttulya",
+        "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/ak2luvr26idjxqavm9aw",
+        "items": [
+            {
+                "name": "Paneer Butter Masala",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/abd2b615a4c505ba288c39611369127b",
+                "price": "240",
+                "description": "Indulge in the rich, flavorful goodness of a creamy buttery curry featuring tender paneer cubes."
+            },
+            {
+                "name": "Paneer Handi",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/7e1ad9fa6238b31847c25a5728f3e27e",
+                "price": "240",
+                "description": "A flavorful Indian delight filled with tender paneer and aromatic spices, perfect for a delightful feast."
+            },
+            {
+                "name": "Chicken Masala",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/c35ccdf204741d2f402ca862e26efc23",
+                "price": "264",
+                "description": "A flavorful and aromatic chicken dish that will tantalize your taste buds with its rich flavors."
+            },
+            {
+                "name": "Chicken Kolhapuri",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/ff2402d4039e808e53aa9d234399bce7",
+                "price": "264",
+                "description": "A flavorful and aromatic chicken main course that will transport your taste buds to the vibrant streets of Kolhapur."
+            },
+            {
+                "name": "Dal Tadka",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/bbcac91e4e52e40be69e697d715d2740",
+                "price": "132",
+                "description": "A flavorful and aromatic delicacy that will tantalize your taste buds with its rich and comforting essence."
+            },
+            {
+                "name": "Vegetable Biryani",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/14f3b3444d0c159a53db1552848bfc46",
+                "price": "192",
+                "description": "A fragrant and flavorful melody of aromatic basmati rice and garden-fresh vegetables, offering a delightful symphony of flavors and textures."
+            },
+            {
+                "name": "Vegetable Dum Biryani",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/7d5ff84b9a92c0371ea5859ae84c409f",
+                "price": "228",
+                "description": "A fragrant and flavorful rice dish layered with aromatic spices and delectable vegetables."
+            },
+            {
+                "name": "Egg Biryani",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/fd9b6865109b22f11171cd7f93bf39f9",
+                "price": "204",
+                "description": ""
+            },
+            {
+                "name": "Naan",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/463639a9a6399e0de3cbdd58162a86b0",
+                "price": "54",
+                "description": "A delectable Indian bread that adds a flavorful touch to any meal."
+            },
+            {
+                "name": "Chola Batura",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/654d13d0d4d1ba14534f677ccc803bfa",
+                "price": "156",
+                "description": "A satisfying and classic Indian dish, perfect for a hearty breakfast or a scrumptious snack."
+            }
+        ]
+    },
+    {
+        "name": "N.S. Bombay Rasoiya",
+        "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/s6sioltuyttz2os9wmau",
+        "items": [
+            {
+                "name": "Paneer Butter Masala",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/abd2b615a4c505ba288c39611369127b",
+                "price": "240",
+                "description": "Indulge in the rich, flavorful goodness of a creamy buttery curry featuring tender paneer cubes."
+            },
+            {
+                "name": "Paneer Handi",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/7e1ad9fa6238b31847c25a5728f3e27e",
+                "price": "240",
+                "description": "A flavorful Indian delight filled with tender paneer and aromatic spices, perfect for a delightful feast."
+            },
+            {
+                "name": "Chicken Masala",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/c35ccdf204741d2f402ca862e26efc23",
+                "price": "264",
+                "description": "A flavorful and aromatic chicken dish that will tantalize your taste buds with its rich flavors."
+            },
+            {
+                "name": "Chicken Kolhapuri",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/ff2402d4039e808e53aa9d234399bce7",
+                "price": "264",
+                "description": "A flavorful and aromatic chicken main course that will transport your taste buds to the vibrant streets of Kolhapur."
+            },
+            {
+                "name": "Dal Tadka",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/bbcac91e4e52e40be69e697d715d2740",
+                "price": "132",
+                "description": "A flavorful and aromatic delicacy that will tantalize your taste buds with its rich and comforting essence."
+            },
+            {
+                "name": "Vegetable Biryani",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/14f3b3444d0c159a53db1552848bfc46",
+                "price": "192",
+                "description": "A fragrant and flavorful melody of aromatic basmati rice and garden-fresh vegetables, offering a delightful symphony of flavors and textures."
+            },
+            {
+                "name": "Vegetable Dum Biryani",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/7d5ff84b9a92c0371ea5859ae84c409f",
+                "price": "228",
+                "description": "A fragrant and flavorful rice dish layered with aromatic spices and delectable vegetables."
+            },
+            {
+                "name": "Egg Biryani",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/fd9b6865109b22f11171cd7f93bf39f9",
+                "price": "204",
+                "description": ""
+            },
+            {
+                "name": "Naan",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/463639a9a6399e0de3cbdd58162a86b0",
+                "price": "54",
+                "description": "A delectable Indian bread that adds a flavorful touch to any meal."
+            },
+            {
+                "name": "Chola Batura",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/654d13d0d4d1ba14534f677ccc803bfa",
+                "price": "156",
+                "description": "A satisfying and classic Indian dish, perfect for a hearty breakfast or a scrumptious snack."
+            }
+        ]
+    },
+    {
+        "name": "Champaran Matka Meat Restaurant",
+        "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/faf640b374a0abe13d547f9cd880958a",
+        "items": [
+            {
+                "name": "Paneer Butter Masala",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/abd2b615a4c505ba288c39611369127b",
+                "price": "240",
+                "description": "Indulge in the rich, flavorful goodness of a creamy buttery curry featuring tender paneer cubes."
+            },
+            {
+                "name": "Paneer Handi",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/7e1ad9fa6238b31847c25a5728f3e27e",
+                "price": "240",
+                "description": "A flavorful Indian delight filled with tender paneer and aromatic spices, perfect for a delightful feast."
+            },
+            {
+                "name": "Chicken Masala",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/c35ccdf204741d2f402ca862e26efc23",
+                "price": "264",
+                "description": "A flavorful and aromatic chicken dish that will tantalize your taste buds with its rich flavors."
+            },
+            {
+                "name": "Chicken Kolhapuri",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/ff2402d4039e808e53aa9d234399bce7",
+                "price": "264",
+                "description": "A flavorful and aromatic chicken main course that will transport your taste buds to the vibrant streets of Kolhapur."
+            },
+            {
+                "name": "Dal Tadka",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/bbcac91e4e52e40be69e697d715d2740",
+                "price": "132",
+                "description": "A flavorful and aromatic delicacy that will tantalize your taste buds with its rich and comforting essence."
+            },
+            {
+                "name": "Vegetable Biryani",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/14f3b3444d0c159a53db1552848bfc46",
+                "price": "192",
+                "description": "A fragrant and flavorful melody of aromatic basmati rice and garden-fresh vegetables, offering a delightful symphony of flavors and textures."
+            },
+            {
+                "name": "Vegetable Dum Biryani",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/7d5ff84b9a92c0371ea5859ae84c409f",
+                "price": "228",
+                "description": "A fragrant and flavorful rice dish layered with aromatic spices and delectable vegetables."
+            },
+            {
+                "name": "Egg Biryani",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/fd9b6865109b22f11171cd7f93bf39f9",
+                "price": "204",
+                "description": ""
+            },
+            {
+                "name": "Naan",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/463639a9a6399e0de3cbdd58162a86b0",
+                "price": "54",
+                "description": "A delectable Indian bread that adds a flavorful touch to any meal."
+            },
+            {
+                "name": "Chola Batura",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/654d13d0d4d1ba14534f677ccc803bfa",
+                "price": "156",
+                "description": "A satisfying and classic Indian dish, perfect for a hearty breakfast or a scrumptious snack."
+            }
+        ]
+    },
+    {
+        "name": "Mccafe By Mcdonald's",
+        "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/yx2ye2q5a6v1xnt4jnnz",
+        "items": [
+            {
+                "name": "Paneer Butter Masala",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/abd2b615a4c505ba288c39611369127b",
+                "price": "240",
+                "description": "Indulge in the rich, flavorful goodness of a creamy buttery curry featuring tender paneer cubes."
+            },
+            {
+                "name": "Paneer Handi",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/7e1ad9fa6238b31847c25a5728f3e27e",
+                "price": "240",
+                "description": "A flavorful Indian delight filled with tender paneer and aromatic spices, perfect for a delightful feast."
+            },
+            {
+                "name": "Chicken Masala",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/c35ccdf204741d2f402ca862e26efc23",
+                "price": "264",
+                "description": "A flavorful and aromatic chicken dish that will tantalize your taste buds with its rich flavors."
+            },
+            {
+                "name": "Chicken Kolhapuri",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/ff2402d4039e808e53aa9d234399bce7",
+                "price": "264",
+                "description": "A flavorful and aromatic chicken main course that will transport your taste buds to the vibrant streets of Kolhapur."
+            },
+            {
+                "name": "Dal Tadka",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/bbcac91e4e52e40be69e697d715d2740",
+                "price": "132",
+                "description": "A flavorful and aromatic delicacy that will tantalize your taste buds with its rich and comforting essence."
+            },
+            {
+                "name": "Vegetable Biryani",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/14f3b3444d0c159a53db1552848bfc46",
+                "price": "192",
+                "description": "A fragrant and flavorful melody of aromatic basmati rice and garden-fresh vegetables, offering a delightful symphony of flavors and textures."
+            },
+            {
+                "name": "Vegetable Dum Biryani",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/7d5ff84b9a92c0371ea5859ae84c409f",
+                "price": "228",
+                "description": "A fragrant and flavorful rice dish layered with aromatic spices and delectable vegetables."
+            },
+            {
+                "name": "Egg Biryani",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/fd9b6865109b22f11171cd7f93bf39f9",
+                "price": "204",
+                "description": ""
+            },
+            {
+                "name": "Naan",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/463639a9a6399e0de3cbdd58162a86b0",
+                "price": "54",
+                "description": "A delectable Indian bread that adds a flavorful touch to any meal."
+            },
+            {
+                "name": "Chola Batura",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/654d13d0d4d1ba14534f677ccc803bfa",
+                "price": "156",
+                "description": "A satisfying and classic Indian dish, perfect for a hearty breakfast or a scrumptious snack."
+            }
+        ]
+    },
+    {
+        "name": "McDonald's Gourmet Burger Collection",
+        "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/dlqbu7gmwafplrf2kkqe",
+        "items": [
+            {
+                "name": "Paneer Butter Masala",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/abd2b615a4c505ba288c39611369127b",
+                "price": "240",
+                "description": "Indulge in the rich, flavorful goodness of a creamy buttery curry featuring tender paneer cubes."
+            },
+            {
+                "name": "Paneer Handi",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/7e1ad9fa6238b31847c25a5728f3e27e",
+                "price": "240",
+                "description": "A flavorful Indian delight filled with tender paneer and aromatic spices, perfect for a delightful feast."
+            },
+            {
+                "name": "Chicken Masala",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/c35ccdf204741d2f402ca862e26efc23",
+                "price": "264",
+                "description": "A flavorful and aromatic chicken dish that will tantalize your taste buds with its rich flavors."
+            },
+            {
+                "name": "Chicken Kolhapuri",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/ff2402d4039e808e53aa9d234399bce7",
+                "price": "264",
+                "description": "A flavorful and aromatic chicken main course that will transport your taste buds to the vibrant streets of Kolhapur."
+            },
+            {
+                "name": "Dal Tadka",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/bbcac91e4e52e40be69e697d715d2740",
+                "price": "132",
+                "description": "A flavorful and aromatic delicacy that will tantalize your taste buds with its rich and comforting essence."
+            },
+            {
+                "name": "Vegetable Biryani",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/14f3b3444d0c159a53db1552848bfc46",
+                "price": "192",
+                "description": "A fragrant and flavorful melody of aromatic basmati rice and garden-fresh vegetables, offering a delightful symphony of flavors and textures."
+            },
+            {
+                "name": "Vegetable Dum Biryani",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/7d5ff84b9a92c0371ea5859ae84c409f",
+                "price": "228",
+                "description": "A fragrant and flavorful rice dish layered with aromatic spices and delectable vegetables."
+            },
+            {
+                "name": "Egg Biryani",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/fd9b6865109b22f11171cd7f93bf39f9",
+                "price": "204",
+                "description": ""
+            },
+            {
+                "name": "Naan",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/463639a9a6399e0de3cbdd58162a86b0",
+                "price": "54",
+                "description": "A delectable Indian bread that adds a flavorful touch to any meal."
+            },
+            {
+                "name": "Chola Batura",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/654d13d0d4d1ba14534f677ccc803bfa",
+                "price": "156",
+                "description": "A satisfying and classic Indian dish, perfect for a hearty breakfast or a scrumptious snack."
+            }
+        ]
+    },
+    {
+        "name": "GetAWay-Ice Creams & Desserts",
+        "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/RX_THUMBNAIL/IMAGES/VENDOR/2024/7/9/fa802809-84cc-4a56-82bc-6d01d5fee3d1_693611.jpg",
+        "items": [
+            {
+                "name": "Paneer Butter Masala",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/abd2b615a4c505ba288c39611369127b",
+                "price": "240",
+                "description": "Indulge in the rich, flavorful goodness of a creamy buttery curry featuring tender paneer cubes."
+            },
+            {
+                "name": "Paneer Handi",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/7e1ad9fa6238b31847c25a5728f3e27e",
+                "price": "240",
+                "description": "A flavorful Indian delight filled with tender paneer and aromatic spices, perfect for a delightful feast."
+            },
+            {
+                "name": "Chicken Masala",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/c35ccdf204741d2f402ca862e26efc23",
+                "price": "264",
+                "description": "A flavorful and aromatic chicken dish that will tantalize your taste buds with its rich flavors."
+            },
+            {
+                "name": "Chicken Kolhapuri",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/ff2402d4039e808e53aa9d234399bce7",
+                "price": "264",
+                "description": "A flavorful and aromatic chicken main course that will transport your taste buds to the vibrant streets of Kolhapur."
+            },
+            {
+                "name": "Dal Tadka",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/bbcac91e4e52e40be69e697d715d2740",
+                "price": "132",
+                "description": "A flavorful and aromatic delicacy that will tantalize your taste buds with its rich and comforting essence."
+            },
+            {
+                "name": "Vegetable Biryani",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/14f3b3444d0c159a53db1552848bfc46",
+                "price": "192",
+                "description": "A fragrant and flavorful melody of aromatic basmati rice and garden-fresh vegetables, offering a delightful symphony of flavors and textures."
+            },
+            {
+                "name": "Vegetable Dum Biryani",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/7d5ff84b9a92c0371ea5859ae84c409f",
+                "price": "228",
+                "description": "A fragrant and flavorful rice dish layered with aromatic spices and delectable vegetables."
+            },
+            {
+                "name": "Egg Biryani",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/fd9b6865109b22f11171cd7f93bf39f9",
+                "price": "204",
+                "description": ""
+            },
+            {
+                "name": "Naan",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/463639a9a6399e0de3cbdd58162a86b0",
+                "price": "54",
+                "description": "A delectable Indian bread that adds a flavorful touch to any meal."
+            },
+            {
+                "name": "Chola Batura",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/654d13d0d4d1ba14534f677ccc803bfa",
+                "price": "156",
+                "description": "A satisfying and classic Indian dish, perfect for a hearty breakfast or a scrumptious snack."
+            }
+        ]
+    },
+    {
+        "name": "Subway",
+        "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/RX_THUMBNAIL/IMAGES/VENDOR/2024/6/4/77222824-ae70-4d15-ba5e-d2a4dd0a5ad9_677976.JPG",
+        "items": [
+            {
+                "name": "Paneer Butter Masala",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/abd2b615a4c505ba288c39611369127b",
+                "price": "240",
+                "description": "Indulge in the rich, flavorful goodness of a creamy buttery curry featuring tender paneer cubes."
+            },
+            {
+                "name": "Paneer Handi",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/7e1ad9fa6238b31847c25a5728f3e27e",
+                "price": "240",
+                "description": "A flavorful Indian delight filled with tender paneer and aromatic spices, perfect for a delightful feast."
+            },
+            {
+                "name": "Chicken Masala",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/c35ccdf204741d2f402ca862e26efc23",
+                "price": "264",
+                "description": "A flavorful and aromatic chicken dish that will tantalize your taste buds with its rich flavors."
+            },
+            {
+                "name": "Chicken Kolhapuri",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/ff2402d4039e808e53aa9d234399bce7",
+                "price": "264",
+                "description": "A flavorful and aromatic chicken main course that will transport your taste buds to the vibrant streets of Kolhapur."
+            },
+            {
+                "name": "Dal Tadka",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/bbcac91e4e52e40be69e697d715d2740",
+                "price": "132",
+                "description": "A flavorful and aromatic delicacy that will tantalize your taste buds with its rich and comforting essence."
+            },
+            {
+                "name": "Vegetable Biryani",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/14f3b3444d0c159a53db1552848bfc46",
+                "price": "192",
+                "description": "A fragrant and flavorful melody of aromatic basmati rice and garden-fresh vegetables, offering a delightful symphony of flavors and textures."
+            },
+            {
+                "name": "Vegetable Dum Biryani",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/7d5ff84b9a92c0371ea5859ae84c409f",
+                "price": "228",
+                "description": "A fragrant and flavorful rice dish layered with aromatic spices and delectable vegetables."
+            },
+            {
+                "name": "Egg Biryani",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/fd9b6865109b22f11171cd7f93bf39f9",
+                "price": "204",
+                "description": ""
+            },
+            {
+                "name": "Naan",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/463639a9a6399e0de3cbdd58162a86b0",
+                "price": "54",
+                "description": "A delectable Indian bread that adds a flavorful touch to any meal."
+            },
+            {
+                "name": "Chola Batura",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/654d13d0d4d1ba14534f677ccc803bfa",
+                "price": "156",
+                "description": "A satisfying and classic Indian dish, perfect for a hearty breakfast or a scrumptious snack."
+            }
+        ]
+    },
+    {
+        "name": "Mcdonald's",
+        "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/RX_THUMBNAIL/IMAGES/VENDOR/2024/4/1/fedaee6f-c5e9-4f19-8188-93627e6d6776_118349.JPG",
+        "items": [
+            {
+                "name": "McChicken Burger + McSpicy Chicken Burger",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/006d51070b0ab9c839a293b87412541c",
+                "price": "289.52",
+                "rating": "3.1",
+                "raters": "4",
+                "description": "The ultimate chicken combo made just for you. Get the top selling McChicken with the McSpicy Chicken Burger."
+            },
+            {
+                "name": "McAloo Tikki Burger + Veg Pizza McPuff + Coke",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/9f0269a2d28f4918a3b07f63a487f26d",
+                "price": "160.96",
+                "rating": "4.1",
+                "raters": "111",
+                "description": "The ultimate veg combo made just for you. Get the top selling McAloo Tikki served with Veg Pizza McPuff and Coke."
+            },
+            {
+                "name": "McChicken Burger + McSpicy Chicken Burger",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/006d51070b0ab9c839a293b87412541c",
+                "price": "289.52",
+                "rating": "3.1",
+                "raters": "4",
+                "description": "The ultimate chicken combo made just for you. Get the top selling McChicken with the McSpicy Chicken Burger."
+            },
+            {
+                "name": "McChicken Burger + McSpicy Chicken Burger",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/006d51070b0ab9c839a293b87412541c",
+                "price": "289.52",
+                "rating": "3.1",
+                "raters": "4",
+                "description": "The ultimate chicken combo made just for you. Get the top selling McChicken with the McSpicy Chicken Burger."
+            },
+            {
+                "name": "McChicken Burger + McSpicy Chicken Burger",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/006d51070b0ab9c839a293b87412541c",
+                "price": "289.52",
+                "rating": "3.1",
+                "raters": "4",
+                "description": "The ultimate chicken combo made just for you. Get the top selling McChicken with the McSpicy Chicken Burger."
+            },
+            {
+                "name": "McChicken Burger + McSpicy Chicken Burger",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/006d51070b0ab9c839a293b87412541c",
+                "price": "289.52",
+                "rating": "3.1",
+                "raters": "4",
+                "description": "The ultimate chicken combo made just for you. Get the top selling McChicken with the McSpicy Chicken Burger."
+            },
+            {
+                "name": "McChicken Burger + McSpicy Chicken Burger",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/006d51070b0ab9c839a293b87412541c",
+                "price": "289.52",
+                "rating": "3.1",
+                "raters": "4",
+                "description": "The ultimate chicken combo made just for you. Get the top selling McChicken with the McSpicy Chicken Burger."
+            },
+            {
+                "name": "McChicken Burger + McSpicy Chicken Burger",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/006d51070b0ab9c839a293b87412541c",
+                "price": "289.52",
+                "rating": "3.1",
+                "raters": "4",
+                "description": "The ultimate chicken combo made just for you. Get the top selling McChicken with the McSpicy Chicken Burger."
+            }
+        ]
+    }
+]
