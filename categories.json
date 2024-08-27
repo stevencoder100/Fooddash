@@ -1,0 +1,234 @@
+[
+    {
+        "name": "Burger",
+        "img": "./images/category/Burger.webp",
+        "resturants": [
+            {
+                "name": "Ajay's",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/bl2es4b2nbrzgrtntmkb",
+                "address": "Danudyog Industrial Estate",
+                "rating": "3.9",
+                "raters": "50+",
+                "delivery": "20-25 mins",
+                "types": "Burgers",
+                "distance": "0-5 kms",
+                "pureveg": true,
+                "opentime": "",
+                "closetime": ""
+            },
+            {
+                "name": "Domino's Pizza",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/d0450ce1a6ba19ea60cd724471ed54a8",
+                "address": "Samarvarni",
+                "rating": "4.2",
+                "raters": "100+",
+                "delivery": "20-25 mins",
+                "types": "Pizzas, Italian",
+                "distance": "0-5 kms",
+                "pureveg": false,
+                "opentime": "",
+                "closetime": ""
+            },
+            {
+                "name": "The Big Tummy",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/wax47fkzkf6z3bphy250",
+                "address": "District court",
+                "rating": "3.7",
+                "raters": "100+",
+                "delivery": "40-45 mins",
+                "types": "North Indian, Punjabi",
+                "distance": "0-5 kms",
+                "pureveg": true,
+                "opentime": "",
+                "closetime": ""
+            },
+            {
+                "name": "Grill Inn",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/632a646d685ead0353ff4052760e547b",
+                "address": "Silvassa",
+                "rating": "4.5",
+                "raters": "100+",
+                "delivery": "50-55 mins",
+                "types": "Grill, Pizzas",
+                "distance": "0-5 kms",
+                "pureveg": false,
+                "opentime": "",
+                "closetime": ""
+            }
+        ]
+    },
+    {
+        "name": "Pizza",
+        "img": "./images/category/pizza.png",
+        "resturants": [
+            {
+                "name": "Pizza Hut",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/490629b70f89da8a5b93fc199ece335e",
+                "address": "Edifiee The Mall",
+                "rating": "3.5",
+                "raters": "10+",
+                "delivery": "55-60 mins",
+                "types": "Pizza",
+                "distance": "0-5 kms",
+                "pureveg": false,
+                "opentime": "",
+                "closetime": ""
+            },
+            {
+                "name": "La Pino'z Pizza",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/5fe4444a065b60c4fe39ef975222c12b",
+                "address": "Silvassa",
+                "rating": "4.2",
+                "raters": "100+",
+                "delivery": "20-25 mins",
+                "types": "Pizzas, Pastas",
+                "distance": "0-5 kms",
+                "pureveg": true,
+                "opentime": "",
+                "closetime": ""
+            },
+            {
+                "name": "Domino's Pizza",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/d0450ce1a6ba19ea60cd724471ed54a8",
+                "address": "Samarvarni",
+                "rating": "4.2",
+                "raters": "100+",
+                "delivery": "20-25 mins",
+                "types": "Pizzas, Italian",
+                "distance": "0-5 kms",
+                "pureveg": false,
+                "opentime": "",
+                "closetime": ""
+            },
+            {
+                "name": "The Big Tummy",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/wax47fkzkf6z3bphy250",
+                "address": "District court",
+                "rating": "3.7",
+                "raters": "100+",
+                "delivery": "40-45 mins",
+                "types": "North Indian, Punjabi",
+                "distance": "0-5 kms",
+                "pureveg": true,
+                "opentime": "",
+                "closetime": ""
+            }
+        ]
+    },
+    {
+        "name": "Rolls",
+        "img": "./images/category/pizza.png",
+        "resturants": [
+            {
+                "name": "Grill Inn",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/632a646d685ead0353ff4052760e547b",
+                "address": "Silvassa",
+                "rating": "4.5",
+                "raters": "100+",
+                "delivery": "50-55 mins",
+                "types": "Grill, Pizzas",
+                "distance": "0-5 kms",
+                "pureveg": false,
+                "opentime": "",
+                "closetime": ""
+            },
+            {
+                "name": "Omg Fast Food",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/rfyazkryw0ehgcnfburo",
+                "address": "Phoenix Bay",
+                "rating": "3.5",
+                "raters": "100+",
+                "delivery": "35-40 mins",
+                "types": "Fast Food, Punjabi",
+                "distance": "0-5 kms",
+                "pureveg": true,
+                "opentime": "",
+                "closetime": ""
+            },
+            {
+                "name": "Egg N Eggs",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/0e0a53130b316e7c08cbe6d40d14431c",
+                "address": "Silvassa",
+                "rating": "4.1",
+                "raters": "10+",
+                "delivery": "45-50 mins",
+                "types": "Healthy Food, Chinese",
+                "distance": "0-5 kms",
+                "pureveg": false,
+                "opentime": "",
+                "closetime": ""
+            },
+            {
+                "name": "Zahid Fast Food",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/180c2c5e383787497c83077adc5b7d4f",
+                "address": "Silvassa",
+                "rating": "3.8",
+                "raters": "8",
+                "delivery": "40-45 mins",
+                "types": "Chinese, Snacks",
+                "distance": "0-5 kms",
+                "pureveg": false,
+                "opentime": "",
+                "closetime": ""
+            }
+        ]
+    },
+    {
+        "name": "Pizza",
+        "img": "./images/category/pizza.png",
+        "resturants": [
+            {
+                "name": "Pizza Hut",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/490629b70f89da8a5b93fc199ece335e",
+                "address": "Edifiee The Mall",
+                "rating": "3.5",
+                "raters": "10+",
+                "delivery": "55-60 mins",
+                "types": "Pizza",
+                "distance": "0-5 kms",
+                "pureveg": false,
+                "opentime": "",
+                "closetime": ""
+            },
+            {
+                "name": "La Pino'z Pizza",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/5fe4444a065b60c4fe39ef975222c12b",
+                "address": "Silvassa",
+                "rating": "4.2",
+                "raters": "100+",
+                "delivery": "20-25 mins",
+                "types": "Pizzas, Pastas",
+                "distance": "0-5 kms",
+                "pureveg": true,
+                "opentime": "",
+                "closetime": ""
+            },
+            {
+                "name": "Domino's Pizza",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/d0450ce1a6ba19ea60cd724471ed54a8",
+                "address": "Samarvarni",
+                "rating": "4.2",
+                "raters": "100+",
+                "delivery": "20-25 mins",
+                "types": "Pizzas, Italian",
+                "distance": "0-5 kms",
+                "pureveg": false,
+                "opentime": "",
+                "closetime": ""
+            },
+            {
+                "name": "The Big Tummy",
+                "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/wax47fkzkf6z3bphy250",
+                "address": "District court",
+                "rating": "3.7",
+                "raters": "100+",
+                "delivery": "40-45 mins",
+                "types": "North Indian, Punjabi",
+                "distance": "0-5 kms",
+                "pureveg": true,
+                "opentime": "",
+                "closetime": ""
+            }
+        ]
+    }
+]
