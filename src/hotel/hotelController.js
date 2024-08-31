@@ -3,12 +3,16 @@ const { hotel, item, category } = require('./hotelModel');
 const senddata = async (req, res) => {
     try 
     {
-        const { pureveg, } = req.query;
+        const { pureveg, name} = req.query;
         const queryobject = {};
 
         if(pureveg)
         {
             queryobject.pureveg = pureveg;
+        }
+        if(name)
+        {
+            queryobject.name = name;
         }
         const data = await hotel.find(queryobject);
         res.status(200).json(data); 
