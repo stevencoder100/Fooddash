@@ -3,15 +3,19 @@ const mongoose = require("mongoose");
 const tempSchema = new mongoose.Schema({
     name: {
         type: "string",
-        required: true
+        default: '',
     },
     img: {
         type: "string",
-        required: true
+        default: '',
     },
     price: {
         type: "string",
         default: '',
+    },
+    pureveg: {
+        type: Boolean,
+        default: true,
     },
     rating: {
         type: String,
@@ -30,11 +34,11 @@ const tempSchema = new mongoose.Schema({
 const itemSchema = new mongoose.Schema({
     name: {
         type: "string",
-        required: true
+        default: '',
     },
     img: {
         type: "string",
-        required: true
+        default: '',
     },
     items: [tempSchema]
 });
@@ -42,11 +46,11 @@ const itemSchema = new mongoose.Schema({
 const hotelSchema = new mongoose.Schema({
     name: {
         type: String,
-        required: true,
+        default: '',
     },
     img: {
         type: String,
-        required: true,
+        default: '',
     },
     address: {
         type: String,
@@ -66,7 +70,7 @@ const hotelSchema = new mongoose.Schema({
     },
     pureveg: {
         type: Boolean,
-        required: true,
+        default: true
     },
     types: {
         type: String,
@@ -84,24 +88,71 @@ const hotelSchema = new mongoose.Schema({
         type: String,
         default: ''
     },
+    longitude: {
+        type: String,
+        default: ''
+    },
+    latitude: {
+        type: String,
+        default: ''
+    }
 
 });
 
 const categoriesSchema = new mongoose.Schema({
     name: {
         type: "string",
-        required: true
+        default: '',
     },
     img: {
         type: "string",
-        required: true
+        default: ''
     },
-    resturants: [hotelSchema]
+    mains: [hotelSchema]
+});
+
+const orderSchema = new mongoose.Schema({
+    phone: {
+        type: "string",
+        required: true,
+        unique: true,
+    },
+    email: {
+        type: "string",
+        required: true,
+    },
+    username: {
+        type: "string",
+        required: true,
+    },
+    restaurantName: {
+        type: "string",
+        required: true,
+    },
+    foodItems: [{
+        name: {
+            type: "string",
+            required: true,
+        },
+        quantity: {
+            type: Number,
+            required: true,
+        },
+        price: {
+            type: "string",
+            required: true,
+        }
+    }],
+    total: {
+        type: "string",
+        default: '',
+    }
 });
 
 const hotel = mongoose.model('hotel', hotelSchema);
 const item = mongoose.model('item', itemSchema);
 const category = mongoose.model('category', categoriesSchema);
+const order = mongoose.model('order', orderSchema);
 
 // Export models
-module.exports = { hotel, item, category };
+module.exports = { hotel, item, category, order };
